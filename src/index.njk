@@ -23,6 +23,7 @@
   <hr>
   {% for blog in bloglist.blogs %}
     <h3><a href="bloglist/{{ blog.slug }}.html" target="_blank">{{ blog.headline }}</a></h3>
+    <p>{{ blog.date }}</p>
     <hr>
   {% endfor %}
 </div>
