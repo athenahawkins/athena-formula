@@ -1,0 +1,224 @@
+{
+  "bios": [
+    {
+      "driver_name": "Charles Leclerc",
+      "team": "Ferrari",
+      "blurb": "An eight-time world champion with breathtaking talent, Monaco’s Charles Leclerc is pursuing a sensational career in motorsport. He has not stopped developing his innate talent since the earliest days, thanks to his sharp intelligence, a pronounced taste for hard work and an exceedingly likeable personality. ",
+      "source": "https://www.charlesleclerc.com/",
+      "img": "charles.jpg",
+      "race_wins": 105,
+      "pole_positions": 25,
+      "podiums": 13,
+      "slug": "charles"
+    },
+    {
+      "driver_name": "Max Verstappen",
+      "team": "Red Bull Racing",
+      "blurb": "He’s Max by name, and max by nature. Arriving as Formula 1’s youngest ever competitor at just 17 years old, Verstappen pushed his car, his rivals and the sport’s record books to the limit. The baby-faced Dutchman with the heart of a lion took the Toro Rosso – and then the Red Bull – by the horns with his instinctive racing style. F1’s youngest points scorer soon became its youngest race winner – at the age of 18 years and 228 days – with an opportunistic but controlled drive on debut for Red Bull in Barcelona 2016. A true wheel-to-wheel racer, another stunning drive in Brazil from the back of the pack to the podium on a treacherous wet track kept the plaudits coming.",
+      "source": "https://www.formula1.com/en/drivers/max-verstappen.html",
+      "img": "max.jpg",
+      "race_wins": 2,
+      "pole_positions": 56,
+      "podiums": 95,
+      "slug": "max"
+    },
+    {
+      "driver_name": "Sergio \"Checo\" Perez",
+      "team": "Red Bull Racing",
+      "blurb": "Captained by Scottish sailor William Kidd, the 287-ton, three-mast Adventure Galley was launched  in 1695 as part of a venture to curb attacks against British ships in the East Indies. When finding pirates proved too difficult, he resorted to attacking allied ships. ",
+      "source": "https://www.mentalfloss.com/article/21557/6-famous-pirate-ships",
+      "img": "sergio.jpg",
+      "race_wins": 7,
+      "pole_positions": 5,
+      "podiums": 15,
+      "slug": "sergio"
+    },
+    {
+      "driver_name": "Carlos Sainz",
+      "team": "Ferrari",
+      "blurb": "In February 1717, pirate Sam Bellamy captured the Whydah (or Whydah Gally), a large British ship used to transport enslaved people. He was able to mount 28 cannons on her and for a short while terrorized Atlantic shipping lanes.",
+      "source": "https://www.thoughtco.com/famous-pirate-ships-2136286",
+      "img": "carlos.jpg",
+      "race_wins": 1,
+      "pole_positions": 7,
+      "podiums": 12,
+      "slug": "carlos"
+    },
+    {
+      "driver_name": "George Russell",
+      "team": "Mercedes",
+      "blurb": "Henry Avery, who was a one-time Royal Navy midshipman, organized a successful mutiny while stationed aboard the privateer Charles II along the coast of Spain in 1694.  ",
+      "source": "https://www.pirateshowcancun.com/blog/scurvy-pirate-history/famous-pirate-ships-in-history/",
+      "img": "george.jpg",
+      "race_wins": 5,
+      "pole_positions": 0,
+      "podiums": 3,
+      "slug": "george"
+    },
+    {
+      "driver_name": "Lewis Hamilton",
+      "team": "Mercedes",
+      "blurb": "The Golden Hind captained by Sir Francis Drake was one of the most famous ships in sailing history. The Golden Hind was galleon armed with 18 guns of various sizes and weighing about 100 tons. ",
+      "source": "http://www.thewayofthepirates.com/pirate-features/famous-pirate-ships/",
+      "img": "lewis.jpg",
+      "race_wins": 103,
+      "pole_positions": 104,
+      "podiums": 197,
+      "slug": "lewis"
+    },
+    {
+      "driver_name": "Alex Albon",
+      "team": "Williams",
+      "blurb": "Major Stede Bonnet was a most unlikely pirate. He was a wealthy plantation owner from Barbados with a wife and family when suddenly, at about the age of 30, he decided to become a pirate. In 1717 he outfitted a ten-gun sloop he named the Revenge. ",
+      "source": "https://www.thoughtco.com/famous-pirate-ships-2136286",
+      "img": "alex.jpg",
+      "race_wins": 7,
+      "pole_positions": "",
+      "podiums": "",
+      "slug": "alex"
+    },
+    {
+      "driver_name": "Fernando Alonso",
+      "team": "Aston Martin",
+      "blurb": "The Black Pearl is a fictional ship in the Pirates of the Caribbean film series. In the screenplay, the Black Pearl is easily recognized by her distinctive black hull and sails. Captained by Captain Jack Sparrow, she is said to be \"nigh uncatchable\".",
+      "source": "https://en.wikipedia.org/wiki/Black_Pearl",
+      "img": "fernando.jpg",
+      "race_wins": 8,
+      "pole_positions": "",
+      "podiums": "",
+      "slug": "fernando"
+    },
+    {
+      "driver_name": "Logan Sargeant",
+      "team": "Williams",
+      "blurb": "The Black Pearl is a fictional ship in the Pirates of the Caribbean film series. In the screenplay, the Black Pearl is easily recognized by her distinctive black hull and sails. Captained by Captain Jack Sparrow, she is said to be \"nigh uncatchable\".",
+      "source": "",
+      "img": "logan.jpg",
+      "race_wins": 9,
+      "pole_positions": "",
+      "podiums": "",
+      "slug": "logan"
+    },
+    {
+      "driver_name": "Nico Hulkenburg",
+      "team": "Haas",
+      "blurb": "The Black Pearl is a fictional ship in the Pirates of the Caribbean film series. In the screenplay, the Black Pearl is easily recognized by her distinctive black hull and sails. Captained by Captain Jack Sparrow, she is said to be \"nigh uncatchable\".",
+      "source": "",
+      "img": "nico.jpg",
+      "race_wins": 10,
+      "pole_positions": "",
+      "podiums": "",
+      "slug": "nico"
+    },
+    {
+      "driver_name": "Kevin Magnussen",
+      "team": "Haas",
+      "blurb": "The Black Pearl is a fictional ship in the Pirates of the Caribbean film series. In the screenplay, the Black Pearl is easily recognized by her distinctive black hull and sails. Captained by Captain Jack Sparrow, she is said to be \"nigh uncatchable\".",
+      "source": "",
+      "img": "kevin.jpg",
+      "race_wins": 11,
+      "pole_positions": "",
+      "podiums": "",
+      "slug": "kevin"
+    },
+    {
+      "driver_name": "Esteban Ocon",
+      "team": "Alpine",
+      "blurb": "The Black Pearl is a fictional ship in the Pirates of the Caribbean film series. In the screenplay, the Black Pearl is easily recognized by her distinctive black hull and sails. Captained by Captain Jack Sparrow, she is said to be \"nigh uncatchable\".",
+      "source": "",
+      "img": "esteban.jpg",
+      "race_wins": 12,
+      "pole_positions": "",
+      "podiums": "",
+      "slug": "esteban"
+    },
+    {
+      "driver_name": "Pierre Gasly",
+      "team": "Alpine",
+      "blurb": "The Black Pearl is a fictional ship in the Pirates of the Caribbean film series. In the screenplay, the Black Pearl is easily recognized by her distinctive black hull and sails. Captained by Captain Jack Sparrow, she is said to be \"nigh uncatchable\".",
+      "source": "",
+      "img": "pierre.jpg",
+      "race_wins": 13,
+      "pole_positions": "",
+      "podiums": "",
+      "slug": "pierre"
+    },
+    {
+      "driver_name": "Lance Stroll",
+      "team": "Aston Martin",
+      "blurb": "The Black Pearl is a fictional ship in the Pirates of the Caribbean film series. In the screenplay, the Black Pearl is easily recognized by her distinctive black hull and sails. Captained by Captain Jack Sparrow, she is said to be \"nigh uncatchable\".",
+      "source": "",
+      "img": "lance.jpg",
+      "race_wins": 14,
+      "pole_positions": "",
+      "podiums": "",
+      "slug": "lance"
+    },
+    {
+      "driver_name": "Valterri Bottas",
+      "team": "Alfa Romeo",
+      "blurb": "The Black Pearl is a fictional ship in the Pirates of the Caribbean film series. In the screenplay, the Black Pearl is easily recognized by her distinctive black hull and sails. Captained by Captain Jack Sparrow, she is said to be \"nigh uncatchable\".",
+      "source": "",
+      "img": "valterri.jpg",
+      "race_wins": 15,
+      "pole_positions": "",
+      "podiums": "",
+      "slug": "valterri"
+    },
+    {
+      "driver_name": "Zhou Guanyu",
+      "team": "Alfa Romeo",
+      "blurb": "The Black Pearl is a fictional ship in the Pirates of the Caribbean film series. In the screenplay, the Black Pearl is easily recognized by her distinctive black hull and sails. Captained by Captain Jack Sparrow, she is said to be \"nigh uncatchable\".",
+      "source": "",
+      "img": "zhou.jpg",
+      "race_wins": 16,
+      "pole_positions": "",
+      "podiums": "",
+      "slug": "zhou"
+    },
+    {
+      "driver_name": "Yuki Tsunoda",
+      "team": "Alpha Tauri",
+      "blurb": "The Black Pearl is a fictional ship in the Pirates of the Caribbean film series. In the screenplay, the Black Pearl is easily recognized by her distinctive black hull and sails. Captained by Captain Jack Sparrow, she is said to be \"nigh uncatchable\".",
+      "source": "",
+      "img": "yuki.jpg",
+      "race_wins": "",
+      "pole_positions": "",
+      "podiums": "",
+      "slug": "yuki"
+    },
+    {
+      "driver_name": "Daniel Ricciardo",
+      "team": "Alpha Tauri",
+      "blurb": "The Black Pearl is a fictional ship in the Pirates of the Caribbean film series. In the screenplay, the Black Pearl is easily recognized by her distinctive black hull and sails. Captained by Captain Jack Sparrow, she is said to be \"nigh uncatchable\".",
+      "source": "",
+      "img": "daniel.jpg",
+      "race_wins": "",
+      "pole_positions": "",
+      "podiums": "",
+      "slug": "daniel"
+    },
+    {
+      "driver_name": "Lando Norris",
+      "team": "Mclaren",
+      "blurb": "The Black Pearl is a fictional ship in the Pirates of the Caribbean film series. In the screenplay, the Black Pearl is easily recognized by her distinctive black hull and sails. Captained by Captain Jack Sparrow, she is said to be \"nigh uncatchable\".",
+      "source": "",
+      "img": "lando.jpg",
+      "race_wins": "",
+      "pole_positions": "",
+      "podiums": "",
+      "slug": "lando"
+    },
+    {
+      "driver_name": "Oscar Piastri",
+      "team": "Mclaren",
+      "blurb": "The Black Pearl is a fictional ship in the Pirates of the Caribbean film series. In the screenplay, the Black Pearl is easily recognized by her distinctive black hull and sails. Captained by Captain Jack Sparrow, she is said to be \"nigh uncatchable\".",
+      "source": "",
+      "img": "oscar.jpg",
+      "race_wins": "",
+      "pole_positions": "",
+      "podiums": "",
+      "slug": "oscar"
+    }
+  ]
+}

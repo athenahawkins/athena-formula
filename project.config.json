@@ -9,6 +9,31 @@
       "fileId": "1gDwO-32cgpBDn_0niV0iu6TqQTaRDr4nmSqnT53magY",
       "type": "sheet",
       "name": "bookstores"
+    },
+    {
+      "fileId": "1u7rdbsoHKbdStGzzK9gK4i-LqBvy1KHJBwGXo-B9VqU",
+        "type": "sheet",
+        "name": "drivers"
+    },
+    {
+      "fileId": "1VOS_3RxH2i3Y7__A1VfdbmX_RPi7JmTa6WmIzfgne84",
+        "type": "sheet",
+        "name": "circuits"
+    },
+    {
+      "fileId": "1NjnxaNQst0E1y6l-e4GTIqDsM2sRLll3ekCWpcG-lDo",
+        "type": "sheet",
+        "name": "constructors"
+    },
+    {
+      "fileId": "1RRuR0qtieqX0gGxHW3VG3rfEfAzK496u1XFVu3BzkMA",
+        "type": "doc",
+        "name": "headblogs"
+    },
+    {
+      "fileId": "1Ag63ADEY_kgOmB-3IZabs1UKitVkJu-kkpx9H1UY1Qo",
+        "type": "doc",
+        "name": "bloglist"
     }
   ],
   "to_bake": [
@@ -18,6 +43,41 @@
       "array": "books",
       "slug": "slug",
       "path": "books"
+    },
+    {
+      "template": "bake-drivers",
+      "data": "drivers",
+      "array": "bios",
+      "slug": "slug",
+      "path": "drivers"
+    },
+    {
+      "template": "bake-circuits",
+      "data": "circuits",
+      "array": "tracks",
+      "slug": "slug",
+      "path": "circuits"
+    },
+    {
+      "template": "bake-constructors",
+      "data": "constructors",
+      "array": "teams",
+      "slug": "slug",
+      "path": "constructors"
+    },
+    {
+      "template": "bake-headblogs",
+      "data": "headblogs",
+      "array": "blogs",
+      "slug": "slug",
+      "path": "headblogs"
+    },
+    {
+      "template": "bake-bloglist",
+      "data": "bloglist",
+      "array": "blogs",
+      "slug": "slug",
+      "path": "bloglist"
     }
   ]
 }

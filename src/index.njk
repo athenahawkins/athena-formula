@@ -1,29 +1,28 @@
 {% extends '_templates/base.njk' %}
 
-{% block page_title %}Index page title{% endblock %}
+{% block page_title %}Home{% endblock %}
 
-{% block page_description %}The index search description for this page goes here.{% endblock %}
+{% block page_description %}Home page with news and blogs.{% endblock %}
 
 {% block content %}
 <div class="container">
-  <h1>Main headline here</h1>
+  <h1>Welcome to the Grid</h1>
   <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Proin in facilisis velit, aliquam congue dui. Mauris id mi quam. Nam enim leo, bibendum vel efficitur id, elementum malesuada est. Pellentesque interdum tempus eros nec iaculis. Quisque ac est dictum, vehicula nulla quis, condimentum dui.</p>
-  <h2>Library books loop</h2>
-  <p>This loops through data that came from a Google Docs example.</p>
+  <h2>Newest News</h2>
+  <p>Stay on track!</p>
   <div class="row">
-    {% for book in library.books %}
+    {% for blog in headblogs.blogs %}
       <div class="col">
-        <img src="img/{{ book.slug }}.jpg" alt="" class="img-fluid">
-        <h3><a href="books/{{ book.slug }}.html">{{ book.title }}</a></h3>
+        <img src="img/{{ blog.slug }}.jpg" alt="" class="img-fluid">
+        <h3><a href="headblogs/{{ blog.slug }}.html">{{ blog.title }}</a></h3>
       </div>
     {% endfor %}
   </div>
-  <h2>Bookstores loop</h2>
-  <p>This loops through data that came from a Google Sheet example.</p>
+  <h2>Blogs</h2>
+  <p>Real-time updates and race commentary.</p>
   <hr>
-  {% for store in bookstores.stores %}
-    <h3><a href="{{ store.url }}" target="_blank">{{ store.name }}</a></h3>
-    <p>{{ store.address}}, {{ store.city }}, {{ store.state }} {{ store.zip }}</p>
+  {% for blog in bloglist.blogs %}
+    <h3><a href="bloglist/{{ blog.slug }}.html" target="_blank">{{ blog.headline }}</a></h3>
     <hr>
   {% endfor %}
 </div>

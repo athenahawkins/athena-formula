@@ -1,0 +1,76 @@
+{
+  "teams": [
+    {
+      "team_name": "Mercedes",
+      "drivers": "Lewis Hamilton & George Russel",
+      "blurb": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.",
+      "source": "https://www.charlesleclerc.com/",
+      "img": "mercedes.jpg",
+      "slug": "mercedes"
+    },
+    {
+      "team_name": "Red Bull",
+      "drivers": "Max Verstappen & Sergio Perez",
+      "blurb": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.",
+      "source": "https://www.formula1.com/en/drivers/max-verstappen.html",
+      "img": "redbull.jpg",
+      "slug": "redbull"
+    },
+    {
+      "team_name": "Ferrari",
+      "drivers": "Charles Leclerc & Carlos Sainz",
+      "blurb": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.",
+      "source": "https://www.mentalfloss.com/article/21557/6-famous-pirate-ships",
+      "img": "ferrari.jpg",
+      "slug": "ferrari"
+    },
+    {
+      "team_name": "Alfa Romeo",
+      "drivers": "Valterri Bottas & Zhou Guanyu",
+      "blurb": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.",
+      "source": "https://www.thoughtco.com/famous-pirate-ships-2136286",
+      "img": "alfaromeo.jpg",
+      "slug": "alfaromeo"
+    },
+    {
+      "team_name": "Alpha Tauri",
+      "drivers": "Yuki Tsunoda & Daniel Ricciardo",
+      "blurb": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.",
+      "source": "https://www.pirateshowcancun.com/blog/scurvy-pirate-history/famous-pirate-ships-in-history/",
+      "img": "alphatauri.jpg",
+      "slug": "alphatauri"
+    },
+    {
+      "team_name": "Williams",
+      "drivers": "",
+      "blurb": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.",
+      "source": "",
+      "img": "williams.jpg",
+      "slug": "williams"
+    },
+    {
+      "team_name": "Haas",
+      "drivers": "",
+      "blurb": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.",
+      "source": "",
+      "img": "haas.jpg",
+      "slug": "haas"
+    },
+    {
+      "team_name": "Aston Martin",
+      "drivers": "",
+      "blurb": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.",
+      "source": "",
+      "img": "astonmartin.jpg",
+      "slug": "astonmartin"
+    },
+    {
+      "team_name": "McLaren",
+      "drivers": "",
+      "blurb": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.",
+      "source": "",
+      "img": "mclaren.jpg",
+      "slug": "mclaren"
+    }
+  ]
+}

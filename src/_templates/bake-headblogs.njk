@@ -1,0 +1,28 @@
+{% extends '_templates/base.njk' %}
+{% set relative_path = "../" %}
+
+{% block page_title %}
+  {{ title }}
+{% endblock %}
+
+{% block page_description %}
+  {{ title }} by Athena Hawkins 
+{% endblock %}
+
+{% block content %}
+  <article class="container">
+    <div class="row">
+      <div class="col-sm-4">
+        <img src="../img/headshot.jpg" alt="image" class="img-fluid mb-4">
+        <p class="byline">By Athena Hawkins<br>
+        <span>Formula1 Females</span></p>
+        <hr class="d-sm-none">
+      </div>
+      <div class="col-sm-8">
+        <img src="../img/{{ slug }}.jpg" alt="" class="img-fluid mb-4">
+        <h1>{{ headline }}</h1>
+        {{ blurb | safe }}
+      </div>
+    </div>
+  </article>
+{% endblock %}

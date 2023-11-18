@@ -1,0 +1,23 @@
+{% extends '_templates/base.njk' %}
+{% set relative_path = "../" %}
+
+{% block page_title %}{{ circuit_name }}{% endblock %}
+
+{% block page_description %}{{ circuit_name }}
+{% endblock %}
+
+{% block content %}
+  <article class="container">
+    <div class="row">
+      <h1>{{ circuit_name }}</h1>
+      <div class="col-sm-4">
+        <span>Via Formula1</span></p>
+        <hr class="d-sm-none">
+      </div>
+      <div class="col-sm-8">
+        <img src="../img/{{ img }}" alt="image" class="img-fluid mb-4">
+        {{ blurb }}
+      </div>
+    </div>
+  </article>
+{% endblock %}

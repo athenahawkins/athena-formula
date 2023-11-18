@@ -1,0 +1,28 @@
+{% extends '_templates/base.njk' %}
+
+{% block page_title %}Constructors{% endblock %}
+
+{% block page_description %}A list of Formula1 teams.{% endblock %}
+
+{% block content %}
+  <article class="container">
+        <h1>Meet the Constructors</h1>
+        <p>Which team will rise to the top?</p>
+        <div class="row">
+          {% for team in constructors.teams %}
+              <div class="card-deck">
+              <a href="constructors/{{ team.slug }}.html" class="card-link">
+                <div class="card">
+                  <img class="card-img-top" src="img/{{ team.img }}" alt="Card image cap">
+                  <div class="card-body">
+                  <h5 class="card-title">
+                    {{ team.team_name }}
+                  </h5>
+                  </div>
+                </div>
+              </a>
+              </div>
+          {% endfor %}
+        </div>
+  </article>
+{% endblock %}
