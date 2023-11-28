@@ -2,10 +2,13 @@
 #jumbo {
   background: url(../img/jumbotron.jpg) no-repeat center;
   background-size: cover;
-  color: white;
-  padding-top: 12rem
-}
-
-#jumbo {
+  padding-top: 12rem;
   margin-bottom: 30px;
+
+  h1 {
+    color:white;
+    font-size: 4rem;
+    font-weight: 400;
+    margin-bottom: 2rem;
+  }
 }

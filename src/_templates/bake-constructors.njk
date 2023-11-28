@@ -3,21 +3,53 @@
 
 {% block page_title %}{{ team_name }}{% endblock %}
 
-{% block page_description %}{{ team_name }}
-{% endblock %}
+{% block page_description %}{{ team_name }}{% endblock %}
+
 
 {% block content %}
-  <article class="container">
-    <div class="row">
-      <h1>{{ team_name }}</h1>
-      <div class="col-sm-4">
-        <span>Via Formula1</span></p>
-        <hr class="d-sm-none">
-      </div>
-      <div class="col-sm-8">
-        <img src="../img/{{ img }}" alt="image" class="img-fluid mb-4">
-        {{ blurb }}
-      </div>
+<article class="container">
+  <h1>{{ team_name }}</h1>
+  <h2 class="subtitle">{{ drivers }}</h2>
+  <div class="row justify-content-center">
+<div class="col-sm-8">
+      <img src="../img/{{ img }}" alt="Constructor Car Image" class="img-fluid mb-4">
+      <span>Via Formula1</span>
     </div>
-  </article>
+
+    <div class="col-sm-8">
+      <div class="row">
+        <div class="col-lg-4 col-md-4">
+          <div class="stats-card card mb-4">
+            <div class="card-body">
+              <h3 class="card-title">Team Rank</h3>
+              <p>{{ position }}</p>
+            </div>
+          </div>
+        </div>
+        <div class="col-lg-4 col-md-4">
+          <div class="stats-card card mb-4">
+            <div class="card-body">
+              <h3 class="card-title">Team Points</h3>
+              <p>{{ points }}</p>
+            </div>
+          </div>
+        </div>
+        <div class="col-lg-4 col-md-4">
+          <div class="stats-card card mb-4">
+            <div class="card-body">
+              <h3 class="card-title">Team Wins</h3>
+              <p>{{ wins }}</p>
+            </div>
+          </div>
+        </div>
+      </div>
+      <div class="row">
+        <div class="col-sm-12">
+          <h3>About</h3>
+          <p>{{ blurb }}</p>
+        </div>
+    </div>
+  </div>
+
+</article>
 {% endblock %}

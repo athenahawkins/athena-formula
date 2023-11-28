@@ -1,7 +1,9 @@
 .card {
-  height: 350px; /* Set the height of the card */
+  height: 200px; /* Set the height of the card */
   margin-bottom: 20px; /* Add some margin between the cards */
-  overflow: scroll; /* Hide any content that overflows the card */
+  display: flex;
+  justify-content: space-between;
+  height: auto;
 }
 
 .card-title {
@@ -14,9 +16,12 @@
 }
 
 .card-body {
-  padding: $card-spacer-y $card-spacer-x;
+  padding: 15px; // Add padding to the card body
+  height: 100%; // Set the height of the card body to 100%
 }
 
-.card-body a {
-  color: burlywood; // Set the link color to a light brown
+.card-img-top {
+  object-fit: contain;
+  max-height: 100%;
+  width: 100%;
 }

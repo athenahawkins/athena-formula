@@ -1,76 +1,216 @@
 {
   "teams": [
     {
-      "team_name": "Mercedes",
-      "drivers": "Lewis Hamilton & George Russel",
-      "blurb": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.",
-      "source": "https://www.charlesleclerc.com/",
-      "img": "mercedes.jpg",
-      "slug": "mercedes"
-    },
-    {
+      "position": 1,
+      "points": 860,
+      "wins": 21,
+      "constructorId": "red_bull",
       "team_name": "Red Bull",
       "drivers": "Max Verstappen & Sergio Perez",
-      "blurb": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.",
-      "source": "https://www.formula1.com/en/drivers/max-verstappen.html",
+      "blurb": "Founded in 2005 and helmed by Christian Horner, Red Bull Racing has been a relentless force in Formula 1. Racing under an Austrian license but rooted in the UK, it stands as a pivotal part of Red Bull GmbH alongside Scuderia AlphaTauri. From Cosworth and Ferrari to a fruitful alliance with Renault, the team's pinnacle arrived from 2010 to 2013, clinching four consecutive Drivers' and Constructors' Championships, marking them as the first Austrian team to achieve such a feat.",
+      "source": "https://www.redbullracing.com/int-en",
       "img": "redbull.jpg",
       "slug": "redbull"
     },
     {
+      "position": 2,
+      "points": 409,
+      "wins": 0,
+      "constructorId": "mercedes",
+      "team_name": "Mercedes",
+      "drivers": "Lewis Hamilton & George Russel",
+      "blurb": "The Mercedes-AMG Petronas Formula One Team stands as an emblem of motorsport excellence, etching its name in the annals of Formula 1 history. Renowned for their dominance in the 2010s, securing multiple Constructors' Championships, Mercedes' legacy is defined by an unwavering commitment to precision engineering and performance. Led by visionary minds, their pursuit of innovation and speed has propelled them to the forefront of the sport.",
+      "source": "https://www.mercedesamgf1.com/",
+      "img": "mercedes.jpg",
+      "slug": "mercedes"
+    },
+    {
+      "position": 3,
+      "points": 406,
+      "wins": 1,
+      "constructorId": "ferrari",
       "team_name": "Ferrari",
       "drivers": "Charles Leclerc & Carlos Sainz",
-      "blurb": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.",
-      "source": "https://www.mentalfloss.com/article/21557/6-famous-pirate-ships",
+      "blurb": "Embodying the essence of motorsport passion and pedigree, the Scuderia Ferrari Formula One Team stands as an indelible icon in racing history. With a legacy spanning decades, Ferrari has become synonymous with Formula 1, crafting a narrative of relentless pursuit, innovation, and unrivaled passion for the sport. From the roaring engines of the past to the cutting-edge technology of today, Ferrari's journey through the annals of Formula 1 remains a testament to racing excellence.",
+      "source": "https://www.ferrari.com/en-EN/formula1",
       "img": "ferrari.jpg",
       "slug": "ferrari"
     },
     {
-      "team_name": "Alfa Romeo",
-      "drivers": "Valterri Bottas & Zhou Guanyu",
-      "blurb": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.",
-      "source": "https://www.thoughtco.com/famous-pirate-ships-2136286",
-      "img": "alfaromeo.jpg",
-      "slug": "alfaromeo"
+      "position": 4,
+      "points": 302,
+      "wins": 0,
+      "constructorId": "mclaren",
+      "team_name": "McLaren",
+      "drivers": "Lando Norris & Oscar Piastri",
+      "blurb": "Alfa Romeo Racing ORLEN, a distinguished name in Formula 1, boasts a rich history intertwined with the sport's evolution. Established as a pillar of motorsport, the team's legacy spans decades, embodying a blend of tradition, innovation, and unwavering dedication to racing excellence. From its early days to the present, Alfa Romeo Racing ORLEN has remained a formidable presence on the grid, showcasing resilience and a commitment to pushing the boundaries of technology and performance in the ever-evolving world of Formula 1.",
+      "source": "https://www.mclaren.com/racing/",
+      "img": "mclaren.jpg",
+      "slug": "mclaren"
     },
     {
-      "team_name": "Alpha Tauri",
-      "drivers": "Yuki Tsunoda & Daniel Ricciardo",
-      "blurb": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.",
-      "source": "https://www.pirateshowcancun.com/blog/scurvy-pirate-history/famous-pirate-ships-in-history/",
-      "img": "alphatauri.jpg",
-      "slug": "alphatauri"
-    },
-    {
-      "team_name": "Williams",
-      "drivers": "",
-      "blurb": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.",
-      "source": "",
-      "img": "williams.jpg",
-      "slug": "williams"
-    },
-    {
-      "team_name": "Haas",
-      "drivers": "",
-      "blurb": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.",
-      "source": "",
-      "img": "haas.jpg",
-      "slug": "haas"
-    },
-    {
+      "position": 5,
+      "points": 280,
+      "wins": 0,
+      "constructorId": "aston_martin",
       "team_name": "Aston Martin",
-      "drivers": "",
-      "blurb": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.",
-      "source": "",
+      "drivers": "Lance Stroll & Fernando Alonso",
+      "blurb": "Alfa Romeo Racing ORLEN, a distinguished name in Formula 1, boasts a rich history intertwined with the sport's evolution. Established as a pillar of motorsport, the team's legacy spans decades, embodying a blend of tradition, innovation, and unwavering dedication to racing excellence. From its early days to the present, Alfa Romeo Racing ORLEN has remained a formidable presence on the grid, showcasing resilience and a commitment to pushing the boundaries of technology and performance in the ever-evolving world of Formula 1.",
+      "source": "https://www.astonmartinf1.com/en-GB/",
       "img": "astonmartin.jpg",
       "slug": "astonmartin"
     },
     {
+      "position": 6,
+      "points": 120,
+      "wins": 0,
+      "constructorId": "alpine",
+      "team_name": "Alpine",
+      "drivers": "Esteban Ocon & Pierre Gasly",
+      "blurb": "Alfa Romeo Racing ORLEN, a distinguished name in Formula 1, boasts a rich history intertwined with the sport's evolution. Established as a pillar of motorsport, the team's legacy spans decades, embodying a blend of tradition, innovation, and unwavering dedication to racing excellence. From its early days to the present, Alfa Romeo Racing ORLEN has remained a formidable presence on the grid, showcasing resilience and a commitment to pushing the boundaries of technology and performance in the ever-evolving world of Formula 1.",
+      "source": "https://www.alpine-cars.co.uk/formula-1/f1-team.html",
+      "img": "alpine.jpg",
+      "slug": "alpine"
+    },
+    {
+      "position": 7,
+      "points": 28,
+      "wins": 0,
+      "constructorId": "williams",
+      "team_name": "Williams",
+      "drivers": "Alex Albon & Logan Sargeant",
+      "blurb": " Alfa Romeo Racing ORLEN, a distinguished name in Formula 1, boasts a rich history intertwined with the sport's evolution. Established as a pillar of motorsport, the team's legacy spans decades, embodying a blend of tradition, innovation, and unwavering dedication to racing excellence. From its early days to the present, Alfa Romeo Racing ORLEN has remained a formidable presence on the grid, showcasing resilience and a commitment to pushing the boundaries of technology and performance in the ever-evolving world of Formula 1.",
+      "source": "https://www.williamsf1.com/f1",
+      "img": "williams.jpg",
+      "slug": "williams"
+    },
+    {
+      "position": 8,
+      "points": 25,
+      "wins": 0,
+      "constructorId": "alphatauri",
+      "team_name": "Alpha Tauri",
+      "drivers": "Yuki Tsunoda & Daniel Ricciardo",
+      "blurb": "AlphaTauri, formerly known as Toro Rosso, has carved its niche as an integral part of Formula 1's landscape. As the sister team to Red Bull Racing, it plays a crucial role in the Red Bull development track, showcasing a fusion of ambition, technological innovation, and nurturing emerging talent. Evolving from its origins, the team stands as a testament to perseverance, adaptability, and a relentless pursuit of success on the track. With a history rooted in the sport's competitive spirit, AlphaTauri embodies a commitment to fostering a legacy of spirited racing, cementing its position as a pivotal entity in the Formula 1 fraternity.",
+      "source": "https://scuderia.alphatauri.com/en/scuderia-alphatauri-f1-team/",
+      "img": "alphatauri.jpg",
+      "slug": "alphatauri"
+    },
+    {
+      "position": 9,
+      "points": 16,
+      "wins": 0,
+      "constructorId": "alfa",
+      "team_name": "Alfa Romeo",
+      "drivers": "Valterri Bottas & Zhou Guanyu",
+      "blurb": "Alfa Romeo Racing ORLEN, a distinguished name in Formula 1, boasts a rich history intertwined with the sport's evolution. Established as a pillar of motorsport, the team's legacy spans decades, embodying a blend of tradition, innovation, and unwavering dedication to racing excellence. From its early days to the present, Alfa Romeo Racing ORLEN has remained a formidable presence on the grid, showcasing resilience and a commitment to pushing the boundaries of technology and performance in the ever-evolving world of Formula 1.",
+      "source": "https://www.sauber-group.com/motorsport/formula-1/",
+      "img": "alfaromeo.jpg",
+      "slug": "alfaromeo"
+    },
+    {
+      "position": 10,
+      "points": 12,
+      "wins": 0,
+      "constructorId": "haas",
+      "team_name": "Haas",
+      "drivers": "Kevin Magnussen & Nico Hulkenberg",
+      "blurb": " \n \t\nAlfa Romeo Racing ORLEN, a distinguished name in Formula 1, boasts a rich history intertwined with the sport's evolution. Established as a pillar of motorsport, the team's legacy spans decades, embodying a blend of tradition, innovation, and unwavering dedication to racing excellence. From its early days to the present, Alfa Romeo Racing ORLEN has remained a formidable presence on the grid, showcasing resilience and a commitment to pushing the boundaries of technology and performance in the ever-evolving world of Formula 1.",
+      "source": "https://www.haasf1team.com/",
+      "img": "haas.jpg",
+      "slug": "haas"
+    }
+  ],
+  "teams_content": [
+    {
+      "constructorId": "mercedes",
+      "team_name": "Mercedes",
+      "drivers": "Lewis Hamilton & George Russel",
+      "blurb": "The Mercedes-AMG Petronas Formula One Team stands as an emblem of motorsport excellence, etching its name in the annals of Formula 1 history. Renowned for their dominance in the 2010s, securing multiple Constructors' Championships, Mercedes' legacy is defined by an unwavering commitment to precision engineering and performance. Led by visionary minds, their pursuit of innovation and speed has propelled them to the forefront of the sport.",
+      "source": "https://www.mercedesamgf1.com/",
+      "img": "mercedes.jpg",
+      "slug": "mercedes"
+    },
+    {
+      "constructorId": "red_bull",
+      "team_name": "Red Bull",
+      "drivers": "Max Verstappen & Sergio Perez",
+      "blurb": "Founded in 2005 and helmed by Christian Horner, Red Bull Racing has been a relentless force in Formula 1. Racing under an Austrian license but rooted in the UK, it stands as a pivotal part of Red Bull GmbH alongside Scuderia AlphaTauri. From Cosworth and Ferrari to a fruitful alliance with Renault, the team's pinnacle arrived from 2010 to 2013, clinching four consecutive Drivers' and Constructors' Championships, marking them as the first Austrian team to achieve such a feat.",
+      "source": "https://www.redbullracing.com/int-en",
+      "img": "redbull.jpg",
+      "slug": "redbull"
+    },
+    {
+      "constructorId": "ferrari",
+      "team_name": "Ferrari",
+      "drivers": "Charles Leclerc & Carlos Sainz",
+      "blurb": "Embodying the essence of motorsport passion and pedigree, the Scuderia Ferrari Formula One Team stands as an indelible icon in racing history. With a legacy spanning decades, Ferrari has become synonymous with Formula 1, crafting a narrative of relentless pursuit, innovation, and unrivaled passion for the sport. From the roaring engines of the past to the cutting-edge technology of today, Ferrari's journey through the annals of Formula 1 remains a testament to racing excellence.",
+      "source": "https://www.ferrari.com/en-EN/formula1",
+      "img": "ferrari.jpg",
+      "slug": "ferrari"
+    },
+    {
+      "constructorId": "alfa",
+      "team_name": "Alfa Romeo",
+      "drivers": "Valterri Bottas & Zhou Guanyu",
+      "blurb": "Alfa Romeo Racing ORLEN, a distinguished name in Formula 1, boasts a rich history intertwined with the sport's evolution. Established as a pillar of motorsport, the team's legacy spans decades, embodying a blend of tradition, innovation, and unwavering dedication to racing excellence. From its early days to the present, Alfa Romeo Racing ORLEN has remained a formidable presence on the grid, showcasing resilience and a commitment to pushing the boundaries of technology and performance in the ever-evolving world of Formula 1.",
+      "source": "https://www.sauber-group.com/motorsport/formula-1/",
+      "img": "alfaromeo.jpg",
+      "slug": "alfaromeo"
+    },
+    {
+      "constructorId": "alphatauri",
+      "team_name": "Alpha Tauri",
+      "drivers": "Yuki Tsunoda & Daniel Ricciardo",
+      "blurb": "AlphaTauri, formerly known as Toro Rosso, has carved its niche as an integral part of Formula 1's landscape. As the sister team to Red Bull Racing, it plays a crucial role in the Red Bull development track, showcasing a fusion of ambition, technological innovation, and nurturing emerging talent. Evolving from its origins, the team stands as a testament to perseverance, adaptability, and a relentless pursuit of success on the track. With a history rooted in the sport's competitive spirit, AlphaTauri embodies a commitment to fostering a legacy of spirited racing, cementing its position as a pivotal entity in the Formula 1 fraternity.",
+      "source": "https://scuderia.alphatauri.com/en/scuderia-alphatauri-f1-team/",
+      "img": "alphatauri.jpg",
+      "slug": "alphatauri"
+    },
+    {
+      "constructorId": "williams",
+      "team_name": "Williams",
+      "drivers": "Alex Albon & Logan Sargeant",
+      "blurb": " Alfa Romeo Racing ORLEN, a distinguished name in Formula 1, boasts a rich history intertwined with the sport's evolution. Established as a pillar of motorsport, the team's legacy spans decades, embodying a blend of tradition, innovation, and unwavering dedication to racing excellence. From its early days to the present, Alfa Romeo Racing ORLEN has remained a formidable presence on the grid, showcasing resilience and a commitment to pushing the boundaries of technology and performance in the ever-evolving world of Formula 1.",
+      "source": "https://www.williamsf1.com/f1",
+      "img": "williams.jpg",
+      "slug": "williams"
+    },
+    {
+      "constructorId": "haas",
+      "team_name": "Haas",
+      "drivers": "Kevin Magnussen & Nico Hulkenberg",
+      "blurb": " \n \t\nAlfa Romeo Racing ORLEN, a distinguished name in Formula 1, boasts a rich history intertwined with the sport's evolution. Established as a pillar of motorsport, the team's legacy spans decades, embodying a blend of tradition, innovation, and unwavering dedication to racing excellence. From its early days to the present, Alfa Romeo Racing ORLEN has remained a formidable presence on the grid, showcasing resilience and a commitment to pushing the boundaries of technology and performance in the ever-evolving world of Formula 1.",
+      "source": "https://www.haasf1team.com/",
+      "img": "haas.jpg",
+      "slug": "haas"
+    },
+    {
+      "constructorId": "aston_martin",
+      "team_name": "Aston Martin",
+      "drivers": "Lance Stroll & Fernando Alonso",
+      "blurb": "Alfa Romeo Racing ORLEN, a distinguished name in Formula 1, boasts a rich history intertwined with the sport's evolution. Established as a pillar of motorsport, the team's legacy spans decades, embodying a blend of tradition, innovation, and unwavering dedication to racing excellence. From its early days to the present, Alfa Romeo Racing ORLEN has remained a formidable presence on the grid, showcasing resilience and a commitment to pushing the boundaries of technology and performance in the ever-evolving world of Formula 1.",
+      "source": "https://www.astonmartinf1.com/en-GB/",
+      "img": "astonmartin.jpg",
+      "slug": "astonmartin"
+    },
+    {
+      "constructorId": "mclaren",
       "team_name": "McLaren",
-      "drivers": "",
-      "blurb": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.",
-      "source": "",
+      "drivers": "Lando Norris & Oscar Piastri",
+      "blurb": "Alfa Romeo Racing ORLEN, a distinguished name in Formula 1, boasts a rich history intertwined with the sport's evolution. Established as a pillar of motorsport, the team's legacy spans decades, embodying a blend of tradition, innovation, and unwavering dedication to racing excellence. From its early days to the present, Alfa Romeo Racing ORLEN has remained a formidable presence on the grid, showcasing resilience and a commitment to pushing the boundaries of technology and performance in the ever-evolving world of Formula 1.",
+      "source": "https://www.mclaren.com/racing/",
       "img": "mclaren.jpg",
       "slug": "mclaren"
+    },
+    {
+      "constructorId": "alpine",
+      "team_name": "Alpine",
+      "drivers": "Esteban Ocon & Pierre Gasly",
+      "blurb": "Alfa Romeo Racing ORLEN, a distinguished name in Formula 1, boasts a rich history intertwined with the sport's evolution. Established as a pillar of motorsport, the team's legacy spans decades, embodying a blend of tradition, innovation, and unwavering dedication to racing excellence. From its early days to the present, Alfa Romeo Racing ORLEN has remained a formidable presence on the grid, showcasing resilience and a commitment to pushing the boundaries of technology and performance in the ever-evolving world of Formula 1.",
+      "source": "https://www.alpine-cars.co.uk/formula-1/f1-team.html",
+      "img": "alpine.jpg",
+      "slug": "alpine"
     }
   ]
 }

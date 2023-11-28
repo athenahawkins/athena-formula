@@ -11,9 +11,9 @@
       "name": "bookstores"
     },
     {
-      "fileId": "1u7rdbsoHKbdStGzzK9gK4i-LqBvy1KHJBwGXo-B9VqU",
+      "fileId": "1ixos7uWmrzk0IJBtCcbNDnBh5UO6FDklzT7eTd1MXgE",
         "type": "sheet",
-        "name": "drivers"
+        "name": "driverstats"
     },
     {
       "fileId": "1VOS_3RxH2i3Y7__A1VfdbmX_RPi7JmTa6WmIzfgne84",
@@ -46,10 +46,10 @@
     },
     {
       "template": "bake-drivers",
-      "data": "drivers",
+      "data": "driverstats",
       "array": "bios",
       "slug": "slug",
-      "path": "drivers"
+      "path": "driverstats"
     },
     {
       "template": "bake-circuits",

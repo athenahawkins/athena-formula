@@ -24,6 +24,60 @@
 @import 'jumbotron';
 @import 'card';
 
+h1 {
+  font-size: 2.5rem;
+  text-align: center;
+  font-family: 'Racing Sans One', sans-serif;
+}
+
+
 h3 {
   font-size: 1.5rem;
+  font-family: 'Racing Sans One', sans-serif;
+}
+
+.headshot-image {
+  max-width: 200px; /* Adjust the value */
+  height: auto;
+}
+
+.callout {
+  background-color: #f2f2f2;
+  padding: 10px;
+  margin-bottom: 10px;
+}
+
+.callout h3 {
+  font-size: 18px;
+  margin-bottom: 5px;
+}
+
+.callout p {
+  font-size: 14px;
+  margin-bottom: 0;
+}
+
+.subtitle {
+  font-size: 1.5rem;
+  font-family: 'Racing Sans One', sans-serif;
+  text-align: center;
+}
+
+.stats-card{
+  background-color: red;
+  padding: 10px;
+  margin-bottom: 10px;
+  text-align: center;
+  box-shadow: 0 4px 8px 0 rgba(0,0,0,0.2);
+
+  p {
+    font-size: 25px;
+    margin-bottom: 0;
+    color: white;
+  }
+}
+
+footer {
+  margin-top: 25px;
+  font-size: 0.75rem;
 }

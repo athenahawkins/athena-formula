@@ -10,6 +10,7 @@
         <p>Which team will rise to the top?</p>
         <div class="row">
           {% for team in constructors.teams %}
+          <div class="col-lg-6  mb-sm-0">
               <div class="card-deck">
               <a href="constructors/{{ team.slug }}.html" class="card-link">
                 <div class="card">
@@ -22,6 +23,7 @@
                 </div>
               </a>
               </div>
+          </div>
           {% endfor %}
         </div>
   </article>

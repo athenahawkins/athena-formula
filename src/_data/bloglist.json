@@ -1,6 +1,26 @@
 {
   "blogs": [
     {
+      "slug": "charles-pole-11-18",
+      "headline": "Leclerc scores another pole in Vegas",
+      "date": "Nov. 17, 2023",
+      "image": "charles-pole-11-17.jpg",
+      "post": [
+        {
+          "type": "text",
+          "value": "Charles Leclerc scored yet another pole in a late night qualifying session at Vegas, his fifth in the season and 22nd in his career. Teammate Carlos Sainz was his runner-up, but he’ll start 12th due to a controversial penalty. Leclerc maintains the most pole positions of any driver who hasn’t won a championship."
+        },
+        {
+          "type": "text",
+          "value": "But the Monegasque’s pole win and the Ferrari 1-2 was not the most surprising event of the night. Seven-time world champion Lewis Hamilton and both McLaren’s, which have seen success in recent races, failed to make it out of Q3."
+        },
+        {
+          "type": "text",
+          "value": "Leclerc was a clear favorite throughout the night, clocking quick lap times in Q1 and setting his fastest time in Q2. But it will be no easy feat to beat out current champion Max Verstappen, who followed closely behind the Ferrari in his Red Bull. Although Max qualified in third, Sainz’s penalty means he’ll start on the front row."
+        }
+      ]
+    },
+    {
       "slug": "george-nap-11-17",
       "headline": "George Russell takes naps, just like everyone else",
       "date": "Nov. 17, 2023",

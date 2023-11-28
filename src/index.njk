@@ -7,12 +7,12 @@
 {% block content %}
 <div class="container">
   <h1>Welcome to the Grid</h1>
-  <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Proin in facilisis velit, aliquam congue dui. Mauris id mi quam. Nam enim leo, bibendum vel efficitur id, elementum malesuada est. Pellentesque interdum tempus eros nec iaculis. Quisque ac est dictum, vehicula nulla quis, condimentum dui.</p>
+  <p>Strap in for the latest Formula1 standings and blogs that'll have you navigating the twists and turns of every circuit faster than Max Verstappen! Dive into the thrilling world of Formula 1 by exploring our drivers, constructors, and circuits pages. </p>
   <h2>Newest News</h2>
   <p>Stay on track!</p>
   <div class="row">
     {% for blog in headblogs.blogs %}
-      <div class="col">
+      <div class="col-lg-4 col-md-4 col-sm-6">
         <img src="img/{{ blog.slug }}.jpg" alt="" class="img-fluid">
         <h3><a href="headblogs/{{ blog.slug }}.html">{{ blog.title }}</a></h3>
       </div>
