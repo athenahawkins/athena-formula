@@ -16,16 +16,19 @@ A list of drivers on the current gride with links to pages.
           {% for driver in driverstats.bios %}
             <div class="col-lg-3 col-md-6 col-sm-6 col-12 mb-3 mb-sm-0">
               <div class="card-deck">
-              <a href="driverstats/{{ driver.slug }}.html" class="card-link">
-                <div class="card">
+                <div class="driver-card card">
                   <img class="card-img-top" src="img/{{ driver.img }}" alt="Card image cap">
                   <div class="card-body">
-                    <h5 class="card-title">
-                      {{ driver.driver_name }}
-                    </h5>
+                  <h5 class="card-title">
+                    <a href="driverstats/{{ driver.slug }}.html">{{ driver.driver_name }}</a>
+                  </h5>
+                    <p class="card-text rank">
+                      {{ driver.position }}
+                    </p>
+                    <p class="card-text">
+                      {{ driver.team }}
                   </div>
                 </div>
-              </a>
               </div>
             </div>
           {% endfor %}

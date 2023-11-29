@@ -14,14 +14,15 @@
   <article class="container">
     <div class="row">
       <h1 class="headline">{{ headline }}</h1>
+      <p class="subtitle">{{ date }}</p>
       <div class="col-sm-4">
-        <img src="../img/headshot.jpg" alt="headshot" class="img-fluid mb-4 headshot-image">
+        <img src="../img/headshot.jpg" alt="image" class="img-thumbnail small-headshot">
         <p class="byline">By Athena Hawkins<br>
-        <span>Formula1 Females</span></p>
+          <span>Formula1 Females</span>
+        </p>
         <hr class="d-sm-none">
       </div>
       <div class="col-sm-8">
-        <img src="../img/{{ slug }}.jpg" alt="" class="img-fluid mb-4">
         {{ prose(post) }}
       </div>
     </div>

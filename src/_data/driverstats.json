@@ -17,7 +17,7 @@
       "points": 285,
       "wins": 2,
       "driverId": "perez",
-      "driver_name": "Sergio \"Checo\" Perez",
+      "driver_name": "Sergio Perez",
       "team": "Red Bull Racing",
       "blurb": "Sergio 'Checo' Perez, hailing from Guadalajara, Mexico, made a groundbreaking entry into Formula 1 in 2011, ending a 30-year absence for Mexican drivers. Despite a slow start, Perez blossomed into a consistent podium contender over a decade in the sport. His move to Red Bull Racing in 2021 sparked a resurgence, culminating in pivotal wins and podium finishes, solidifying his position as a trusted force alongside Max Verstappen.",
       "source": "",
@@ -55,7 +55,7 @@
       "driverId": "leclerc",
       "driver_name": "Charles Leclerc",
       "team": "Ferrari",
-      "blurb": "",
+      "blurb": "Charles Leclerc, a Monegasque prodigy, entered Formula 1 in 2018, swiftly making an impact with Sauber before his promotion to Ferrari. His rise through the ranks, marked by raw talent and determination, positioned him as a promising force on the grid. Establishing himself at Scuderia Ferrari, Leclerc's skillful drives and consistent performances have elevated him to a pivotal role within the team, showcasing his potential as a future champion.",
       "source": "",
       "img": "charles.jpg",
       "slug": "charles"
@@ -286,7 +286,7 @@
     },
     {
       "driverID": "perez",
-      "driver_name": "Sergio \"Checo\" Perez",
+      "driver_name": "Sergio Perez",
       "team": "Red Bull Racing",
       "blurb": "Sergio 'Checo' Perez, hailing from Guadalajara, Mexico, made a groundbreaking entry into Formula 1 in 2011, ending a 30-year absence for Mexican drivers. Despite a slow start, Perez blossomed into a consistent podium contender over a decade in the sport. His move to Red Bull Racing in 2021 sparked a resurgence, culminating in pivotal wins and podium finishes, solidifying his position as a trusted force alongside Max Verstappen.",
       "source": "https://www.formula1.com/en/drivers/max-verstappen.html",

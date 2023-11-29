@@ -1,27 +1,30 @@
 {% extends '_templates/base.njk' %}
 {% set relative_path = "../" %}
+{% from '_macros/prose.njk' import prose %}
 
 {% block page_title %}
-  {{ title }}
+  {{ headline }}
 {% endblock %}
 
 {% block page_description %}
-  {{ title }} by Athena Hawkins 
+  {{ headline }} by Athena Hawkins 
 {% endblock %}
 
 {% block content %}
   <article class="container">
     <div class="row">
+      <h1 class="headline">{{ headline }}</h1>
+      <p class="subtitle">{{ date }}</p>
       <div class="col-sm-4">
-        <img src="../img/headshot.jpg" alt="image" class="img-fluid mb-4">
+        <img src="../img/headshot.jpg" alt="image" class="img-thumbnail small-headshot">
         <p class="byline">By Athena Hawkins<br>
-        <span>Formula1 Females</span></p>
+          <span>Formula1 Females</span>
+        </p>
         <hr class="d-sm-none">
       </div>
       <div class="col-sm-8">
-        <img src="../img/{{ slug }}.jpg" alt="" class="img-fluid mb-4">
-        <h1>{{ headline }}</h1>
-        {{ blurb | safe }}
+        <img src="../img/{{ slug }}.jpg" alt="image" class="img-fluid">
+        {{ prose(post) }}
       </div>
     </div>
   </article>

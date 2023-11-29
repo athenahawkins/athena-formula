@@ -43,7 +43,7 @@
       "constructorId": "mclaren",
       "team_name": "McLaren",
       "drivers": "Lando Norris & Oscar Piastri",
-      "blurb": "Alfa Romeo Racing ORLEN, a distinguished name in Formula 1, boasts a rich history intertwined with the sport's evolution. Established as a pillar of motorsport, the team's legacy spans decades, embodying a blend of tradition, innovation, and unwavering dedication to racing excellence. From its early days to the present, Alfa Romeo Racing ORLEN has remained a formidable presence on the grid, showcasing resilience and a commitment to pushing the boundaries of technology and performance in the ever-evolving world of Formula 1.",
+      "blurb": "McLaren Racing, one of the most illustrious names in Formula One history, was established by New Zealand racer Bruce McLaren in the 1960s. Renowned for its relentless pursuit of excellence, McLaren has a rich legacy in F1, boasting multiple Constructors' and Drivers' Championships. The team has seen legendary drivers like Ayrton Senna, Alain Prost, and Lewis Hamilton contribute to its success. Despite facing transitional phases in recent years, McLaren's resilience, technological innovation, and passionate fanbase continue to propel them forward, symbolizing a commitment to pushing boundaries in motorsport.",
       "source": "https://www.mclaren.com/racing/",
       "img": "mclaren.jpg",
       "slug": "mclaren"
@@ -67,7 +67,7 @@
       "constructorId": "alpine",
       "team_name": "Alpine",
       "drivers": "Esteban Ocon & Pierre Gasly",
-      "blurb": "Alfa Romeo Racing ORLEN, a distinguished name in Formula 1, boasts a rich history intertwined with the sport's evolution. Established as a pillar of motorsport, the team's legacy spans decades, embodying a blend of tradition, innovation, and unwavering dedication to racing excellence. From its early days to the present, Alfa Romeo Racing ORLEN has remained a formidable presence on the grid, showcasing resilience and a commitment to pushing the boundaries of technology and performance in the ever-evolving world of Formula 1.",
+      "blurb": "Alpine, a French racing team in Formula One, has roots dating back to the foundation of the Alpine brand in the 1950s by Jean Rédélé. While initially focused on rallying and endurance racing, Alpine ventured into Formula One as a constructor and has a rich history intertwined with motorsport. The team, formerly known as Renault, transitioned to the Alpine name in 2021, marking a new chapter while maintaining the Renault Group's heritage. Alpine embodies a blend of French flair and technical expertise, aiming to leverage their racing pedigree and innovative spirit to thrive in the competitive world of Formula One.",
       "source": "https://www.alpine-cars.co.uk/formula-1/f1-team.html",
       "img": "alpine.jpg",
       "slug": "alpine"
@@ -79,7 +79,7 @@
       "constructorId": "williams",
       "team_name": "Williams",
       "drivers": "Alex Albon & Logan Sargeant",
-      "blurb": " Alfa Romeo Racing ORLEN, a distinguished name in Formula 1, boasts a rich history intertwined with the sport's evolution. Established as a pillar of motorsport, the team's legacy spans decades, embodying a blend of tradition, innovation, and unwavering dedication to racing excellence. From its early days to the present, Alfa Romeo Racing ORLEN has remained a formidable presence on the grid, showcasing resilience and a commitment to pushing the boundaries of technology and performance in the ever-evolving world of Formula 1.",
+      "blurb": "The Williams Formula One team, founded by Sir Frank Williams and Sir Patrick Head in 1977, has a storied history in motorsport. With a legacy of success, including seven Constructors' Championships and nine Drivers' Championships, the team has seen iconic drivers like Ayrton Senna and Nigel Mansell grace its ranks. Despite facing challenges in recent years, Williams remains a symbol of determination, resilience, and a commitment to the pursuit of excellence in Formula 1.",
       "source": "https://www.williamsf1.com/f1",
       "img": "williams.jpg",
       "slug": "williams"
@@ -115,7 +115,7 @@
       "constructorId": "haas",
       "team_name": "Haas",
       "drivers": "Kevin Magnussen & Nico Hulkenberg",
-      "blurb": " \n \t\nAlfa Romeo Racing ORLEN, a distinguished name in Formula 1, boasts a rich history intertwined with the sport's evolution. Established as a pillar of motorsport, the team's legacy spans decades, embodying a blend of tradition, innovation, and unwavering dedication to racing excellence. From its early days to the present, Alfa Romeo Racing ORLEN has remained a formidable presence on the grid, showcasing resilience and a commitment to pushing the boundaries of technology and performance in the ever-evolving world of Formula 1.",
+      "blurb": "Haas F1 Team entered Formula One in 2016, founded by Gene Haas, a successful American businessman and the founder of Haas Automation. The team made a notable impact, bringing an American presence back to the pinnacle of motorsport after a long absence. While their early years showed promise with solid performances, Haas faced various challenges in the intensely competitive field. The team's commitment to growing and learning in F1 reflects their ambition to establish a strong foothold and compete at the highest level of international racing.",
       "source": "https://www.haasf1team.com/",
       "img": "haas.jpg",
       "slug": "haas"
@@ -171,7 +171,7 @@
       "constructorId": "williams",
       "team_name": "Williams",
       "drivers": "Alex Albon & Logan Sargeant",
-      "blurb": " Alfa Romeo Racing ORLEN, a distinguished name in Formula 1, boasts a rich history intertwined with the sport's evolution. Established as a pillar of motorsport, the team's legacy spans decades, embodying a blend of tradition, innovation, and unwavering dedication to racing excellence. From its early days to the present, Alfa Romeo Racing ORLEN has remained a formidable presence on the grid, showcasing resilience and a commitment to pushing the boundaries of technology and performance in the ever-evolving world of Formula 1.",
+      "blurb": "The Williams Formula One team, founded by Sir Frank Williams and Sir Patrick Head in 1977, has a storied history in motorsport. With a legacy of success, including seven Constructors' Championships and nine Drivers' Championships, the team has seen iconic drivers like Ayrton Senna and Nigel Mansell grace its ranks. Despite facing challenges in recent years, Williams remains a symbol of determination, resilience, and a commitment to the pursuit of excellence in Formula 1.",
       "source": "https://www.williamsf1.com/f1",
       "img": "williams.jpg",
       "slug": "williams"
@@ -180,7 +180,7 @@
       "constructorId": "haas",
       "team_name": "Haas",
       "drivers": "Kevin Magnussen & Nico Hulkenberg",
-      "blurb": " \n \t\nAlfa Romeo Racing ORLEN, a distinguished name in Formula 1, boasts a rich history intertwined with the sport's evolution. Established as a pillar of motorsport, the team's legacy spans decades, embodying a blend of tradition, innovation, and unwavering dedication to racing excellence. From its early days to the present, Alfa Romeo Racing ORLEN has remained a formidable presence on the grid, showcasing resilience and a commitment to pushing the boundaries of technology and performance in the ever-evolving world of Formula 1.",
+      "blurb": "Haas F1 Team entered Formula One in 2016, founded by Gene Haas, a successful American businessman and the founder of Haas Automation. The team made a notable impact, bringing an American presence back to the pinnacle of motorsport after a long absence. While their early years showed promise with solid performances, Haas faced various challenges in the intensely competitive field. The team's commitment to growing and learning in F1 reflects their ambition to establish a strong foothold and compete at the highest level of international racing.",
       "source": "https://www.haasf1team.com/",
       "img": "haas.jpg",
       "slug": "haas"
@@ -198,7 +198,7 @@
       "constructorId": "mclaren",
       "team_name": "McLaren",
       "drivers": "Lando Norris & Oscar Piastri",
-      "blurb": "Alfa Romeo Racing ORLEN, a distinguished name in Formula 1, boasts a rich history intertwined with the sport's evolution. Established as a pillar of motorsport, the team's legacy spans decades, embodying a blend of tradition, innovation, and unwavering dedication to racing excellence. From its early days to the present, Alfa Romeo Racing ORLEN has remained a formidable presence on the grid, showcasing resilience and a commitment to pushing the boundaries of technology and performance in the ever-evolving world of Formula 1.",
+      "blurb": "McLaren Racing, one of the most illustrious names in Formula One history, was established by New Zealand racer Bruce McLaren in the 1960s. Renowned for its relentless pursuit of excellence, McLaren has a rich legacy in F1, boasting multiple Constructors' and Drivers' Championships. The team has seen legendary drivers like Ayrton Senna, Alain Prost, and Lewis Hamilton contribute to its success. Despite facing transitional phases in recent years, McLaren's resilience, technological innovation, and passionate fanbase continue to propel them forward, symbolizing a commitment to pushing boundaries in motorsport.",
       "source": "https://www.mclaren.com/racing/",
       "img": "mclaren.jpg",
       "slug": "mclaren"
@@ -207,7 +207,7 @@
       "constructorId": "alpine",
       "team_name": "Alpine",
       "drivers": "Esteban Ocon & Pierre Gasly",
-      "blurb": "Alfa Romeo Racing ORLEN, a distinguished name in Formula 1, boasts a rich history intertwined with the sport's evolution. Established as a pillar of motorsport, the team's legacy spans decades, embodying a blend of tradition, innovation, and unwavering dedication to racing excellence. From its early days to the present, Alfa Romeo Racing ORLEN has remained a formidable presence on the grid, showcasing resilience and a commitment to pushing the boundaries of technology and performance in the ever-evolving world of Formula 1.",
+      "blurb": "Alpine, a French racing team in Formula One, has roots dating back to the foundation of the Alpine brand in the 1950s by Jean Rédélé. While initially focused on rallying and endurance racing, Alpine ventured into Formula One as a constructor and has a rich history intertwined with motorsport. The team, formerly known as Renault, transitioned to the Alpine name in 2021, marking a new chapter while maintaining the Renault Group's heritage. Alpine embodies a blend of French flair and technical expertise, aiming to leverage their racing pedigree and innovative spirit to thrive in the competitive world of Formula One.",
       "source": "https://www.alpine-cars.co.uk/formula-1/f1-team.html",
       "img": "alpine.jpg",
       "slug": "alpine"

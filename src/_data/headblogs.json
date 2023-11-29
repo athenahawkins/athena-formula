@@ -2,89 +2,71 @@
   "blogs": [
     {
       "slug": "short-practice",
-      "title": "FP1 gets cut short after track debacle",
-      "author": "Athena Hawkins",
-      "blurb": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua."
+      "headline": "FP1 cut short after track debacle, thousands of frustrated fans forced to leave",
+      "date": "Nov. 17, 2023",
+      "image": "short-practice",
+      "post": [
+        {
+          "type": "text",
+          "value": "The much-anticipated F1 race in Las Vegas took an unexpected turn on Thursday night, sending shockwaves through the racing community and leaving fans utterly disappointed. The event, set to be a thrilling spectacle, turned into a nightmare as Carlos Sainz encountered a perilous mishap on the track, triggering a chain of events that led to the cancellation of the race."
+        },
+        {
+          "type": "text",
+          "value": "Amidst the high-speed action at the Las Vegas circuit, Sainz's car unexpectedly collided with a misplaced drain pipe, causing extensive damage to the vehicle and disrupting the racing line. The alarming incident not only endangered Sainz but also raised serious concerns about track safety."
+        },
+        {
+          "type": "text",
+          "value": "As a result of the damage caused by the collision, race officials were forced to make a difficult decision—to call off the race for the safety of all participants and spectators. The track's integrity was compromised, and the risks involved in continuing the event were deemed too high."
+        },
+        {
+          "type": "text",
+          "value": "Disappointment reverberated through the crowd as attendees, eagerly anticipating the adrenaline-pumping race, were informed that the Thursday night spectacle was abruptly canceled. The abrupt end to the event left many fans disheartened, especially those who had eagerly traveled to witness the race firsthand."
+        },
+        {
+          "type": "text",
+          "value": "Authorities swiftly took action to rectify the situation, launching a thorough investigation into the incident and the lapses that led to such a hazardous condition on the track. Track officials, in collaboration with F1 management, issued apologies to the fans and assured them that measures would be taken to prevent such incidents from occurring in the future."
+        }
+      ]
     },
     {
       "slug": "sainz-out",
-      "title": "Sainz devastated after 10-place grid penalty",
-      "author": "Athena Hawkins",
-      "blurb": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua."
+      "headline": "Sainz devastated after 10-place grid penalty in Vegas",
+      "date": "Nov. 17, 2023",
+      "image": "sainz-out",
+      "post": [
+        {
+          "type": "text",
+          "value": "The Las Vegas Grand Prix witnessed an unexpected turn for Carlos Sainz as a consequence of the track-related damage. Following the compromised track conditions necessitating an engine replacement, Sainz incurred a ten-place grid penalty, relegating him to a challenging starting position for the forthcoming race."
+        },
+        {
+          "type": "text",
+          "value": "The incident stemmed from the track's compromised integrity, prompting Sainz's engine swap due to the incurred damage. This setback undoubtedly poses a formidable challenge for the driver, positioning him further down the starting order for the subsequent race."
+        },
+        {
+          "type": "text",
+          "value": "As Formula 1 continues to navigate unforeseen track challenges, Sainz's situation stands as a testament to the sport's inherent unpredictability. His task ahead involves a strategic and skillful maneuver through the grid to optimize his race outcome in the upcoming event."
+        }
+      ]
     },
     {
       "slug": "charles-hot",
-      "title": "Ranking driver fashion in Las Vegas",
-      "author": "Athena Hawkins",
-      "blurb": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua."
-    }
-  ],
-  "example_multigraph": [
-    {
-      "name": "Matt’s El Rancho",
-      "address": "2613 S Lamar Blvd, Austin, TX 78704",
-      "description": [
+      "headline": "Ranking driver fashion at the Las Vegas Grand Prix",
+      "date": "Nov. 17, 2023",
+      "image": "charles-hot",
+      "post": [
         {
           "type": "text",
-          "value": "Matt Martinez started his career in 1923 at the age of six selling tamales from a wooden pushcart by the Texas Capitol."
+          "value": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum."
         },
         {
           "type": "text",
-          "value": "Matt & Janie opened El Rancho in 1952 on East 1st Street in downtown Austin with no employees and seating for 40.   Matt worked the front of the house and Janie made everything from scratch in the kitchen."
+          "value": "Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum. Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat."
         },
         {
           "type": "text",
-          "value": "Today the South Lamar restaurant seats more than 500.  El Rancho still makes everything from scratch.  Our in house tortilla factory grinds Non-GMO corn daily to make the freshest corn tortillas and chips you can find.   Our famous Margarita’s are made with fresh squeezed lime juice."
+          "value": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum."
         }
       ]
-    }
-  ],
-  "example_prose": [
-    {
-      "type": "text",
-      "value": "This is the first paragraph of a multi-paragraph intro formatted in a Google Doc to be used for <a href=\"http://archieml.org/#demo\">ArchieML</a> that includes . What is said here is not that important, but the structure of this text in the Google Doc is."
-    },
-    {
-      "type": "subhead",
-      "value": "This is subhead"
-    },
-    {
-      "type": "text",
-      "value": "This is the second paragraph of the text to show how to loop over the text."
-    },
-    {
-      "type": "text",
-      "value": "# this is a list embedded in the text"
-    },
-    {
-      "type": "list",
-      "value": [
-        {
-          "type": "text",
-          "value": "First list item."
-        },
-        {
-          "type": "text",
-          "value": "Second list item."
-        }
-      ]
-    }
-  ],
-  "example_image": [
-    {
-      "type": "text",
-      "value": "This is another freeform array of text with multiple paragraphs but in this case there is an image call between two paragraphs of the text."
-    },
-    {
-      "type": "img",
-      "value": {
-        "filename": "the-clown.jpg",
-        "alt": "the clown"
-      }
-    },
-    {
-      "type": "text",
-      "value": "This is the second graph of text. The image above will be placed between the two graphs using an image macro in the processors.njk file."
     }
   ]
 }
