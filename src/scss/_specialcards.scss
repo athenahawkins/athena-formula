@@ -1,0 +1,71 @@
+/* special styles for cards */
+
+.driver-card, .team-card{
+  text-align: center;
+  box-shadow: 0 4px 8px 0 rgba(0,0,0,0.2);
+  background-color: white;
+
+  h5 {
+    font-size: 1.5rem;
+    margin-bottom: 0;
+    color: black;
+}
+
+  p {
+    font-style: italic;
+    font-size: 1.25rem;
+    margin-bottom: 0;
+    color: black;
+  }
+
+  .rank{
+    font-style: bold;
+    font-size: 1.5rem;
+    margin-bottom: 0;
+    color: black;
+  }
+}
+
+.stats-card{
+  background-color: red;
+  padding: 10px;
+  margin-bottom: 10px;
+  text-align: center;
+  box-shadow: 0 4px 8px 0 rgba(0,0,0,0.2);
+
+  h3 {
+    font-size: 1.5rem;
+    margin-bottom: 0;
+    color: white;
+}
+
+  p {
+    font-size: 25px;
+    margin-bottom: 0;
+    color: white;
+  }
+}
+
+.circuit-card {
+  padding: 10px;
+  text-align: center;
+  box-shadow: 0 4px 8px 0 rgba(0,0,0,0.2);
+
+  img {
+    width: 100%;
+    height: auto;
+    border-radius: 0%;
+  }
+
+  h5 {
+    font-size: 1.2rem;
+    margin-bottom: 0;
+    color: black;
+  }
+
+  p {
+    font-size: 15px;
+    margin-bottom: 0;
+    color: black;
+  }
+}

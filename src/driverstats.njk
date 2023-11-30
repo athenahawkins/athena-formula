@@ -11,19 +11,19 @@ A list of drivers on the current gride with links to pages.
 {% block content %}
   <article class="container">
         <h1>Meet the Drivers</h1>
-        <p>The 2023 grid is packed with talent.</p>
+        <p class = "intro">The 2023 grid is packed with talent. But only one will rise to the top. Check out how your favorite driver fares in the championship standings, and click on their name to learn more about their history and stats.</p>
         <div class="row justify-content-center">
           {% for driver in driverstats.bios %}
             <div class="col-lg-3 col-md-6 col-sm-6 col-12 mb-3 mb-sm-0">
               <div class="card-deck">
                 <div class="driver-card card">
-                  <img class="card-img-top" src="img/{{ driver.img }}" alt="Card image cap">
+                  <img class="card-img-top" src="img/drivers/{{ driver.img }}" alt="Card image cap">
                   <div class="card-body">
                   <h5 class="card-title">
                     <a href="driverstats/{{ driver.slug }}.html">{{ driver.driver_name }}</a>
                   </h5>
                     <p class="card-text rank">
-                      {{ driver.position }}
+                      #{{ driver.position }}
                     </p>
                     <p class="card-text team">
                       {{ driver.team }}

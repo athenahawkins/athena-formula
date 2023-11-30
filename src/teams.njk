@@ -7,20 +7,20 @@
 {% block content %}
   <article class="container">
         <h1>Meet the Constructors</h1>
-        <p>Which team will rise to the top?</p>
+        <p class="intro">Which team will rise to the top? Ten constructors start the season, battling to prove their car is the fastest on the grid. This page has current constructor standings, updated weekly. Click on the name of your favorite constructor to learn more.</p>
         <div class="row">
           {% for team in constructors.teams %}
           <div class="col-lg-6  mb-sm-0">
               <div class="card-deck">
               <a href="constructors/{{ team.slug }}.html" class="card-link">
-                <div class="card">
-                  <img class="card-img-top" src="img/{{ team.img }}" alt="Card image cap">
+                <div class="team-card card">
+                  <img class="card-img-top" src="img/teams/{{ team.img }}" alt="Card image cap">
                   <div class="card-body">
                   <h5 class="card-title">
                     {{ team.team_name }}
                   </h5>
                   <p class="card-text">
-                    Rank: {{ team.position }}
+                    #{{ team.position }}
                   </p>
                   </div>
                 </div>

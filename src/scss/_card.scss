@@ -1,4 +1,5 @@
 /*card styles */
+
 .card {
   height: 200px; /* Set the height of the card */
   margin-bottom: 20px; /* Add some margin between the cards */
@@ -12,13 +13,13 @@
 }
 
 .card-subtitle {
-  margin-bottom: 10px; // Add margin between the subtitle and text underneath
+  margin-bottom: 10px;
   font-style: italic; // Make the text italic
 }
 
 .card-body {
-  padding: 15px; // Add padding to the card body
-  height: 100%; // Set the height of the card body to 100%
+  padding: 15px;
+  height: 100%; 
 }
 
 .card-img-top {
@@ -27,54 +28,4 @@
   width: 100%;
 }
 
-.driver-card{
-  text-align: center;
-  box-shadow: 0 4px 8px 0 rgba(0,0,0,0.2);
-  background-color: white;
 
-  h5 {
-    font-size: 1.5rem;
-    margin-bottom: 0;
-    color: black;
-}
-
-  p {
-    font-style: italic;
-    font-size: 1.25rem;
-    margin-bottom: 0;
-    color: black;
-  }
-
-  .rank{
-    font-style: bold;
-    font-size: 1.5rem;
-    margin-bottom: 0;
-    color: black;
-  }
-}
-
-.stats-card{
-  background-color: red;
-  padding: 10px;
-  margin-bottom: 10px;
-  text-align: center;
-  box-shadow: 0 4px 8px 0 rgba(0,0,0,0.2);
-
-  img {
-    width: 100%;
-    height: auto;
-    border-radius: 50%;
-  }
-
-  h3 {
-    font-size: 1.5rem;
-    margin-bottom: 0;
-    color: white;
-}
-
-  p {
-    font-size: 25px;
-    margin-bottom: 0;
-    color: white;
-  }
-}
