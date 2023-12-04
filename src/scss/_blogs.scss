@@ -3,6 +3,10 @@
   font-size: 1rem;
   margin-bottom: 0;
   text-align: center;
+
+  span{
+    font-style: italic;
+  }
 }
 
 .subtitle {
@@ -12,9 +16,25 @@
 }
 
 .small-headshot {
-  width: 200px;
-  height: 200px;
+  width: 150px;
+  height: 150px;
   border-radius: 50%;
   margin: 0 auto;
   display: block;
+}
+
+.baked-blog-img {
+  max-width: 100%;
+  max-height: auto;
+}
+
+.bloglist-small {
+  margin-top: 25px;
+  margin-left: 25px;
+  text-align: left;
+
+  p{
+    font-size: 1.25rem;
+    text-align: left;
+  }
 }
