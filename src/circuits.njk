@@ -1,20 +1,24 @@
 {% extends '_templates/base.njk' %}
 
-{% block page_title %}Circuits{% endblock %}
+{% block page_title %}
+Circuits
+{% endblock %}
 
-{% block page_description %}A list of pirate ships of lore from fact and fiction.{% endblock %}
+{% block page_description %}
+A list of F1 circuits and their locations.
+{% endblock %}
 
 {% block content %}
   <article class="container">
         <h1>Explore the Circuits</h1>
-        <p class ="intro">It's lights out and away we go! You can't drive a race without a track, and Formula1 has some of the most iconic tracks in the history of motorsport. Which twists and turns could you make? Can you find the racing line? Click on each circuit to learn more.</p>
+        <p class ="intro">You can't drive a race without a track, and Formula1 has some of the most iconic tracks in the history of motorsport. Which twists and turns could you make? Click a circuit to learn more.</p>
         <div class="row">
           {% for circuit in circuits.tracks %}
             <div class="col-lg-3 col-md-6 col-sm-6 col-12 mb-3 mb-sm-0">
               <div class="card-deck">
               <a href="circuits/{{ circuit.slug }}.html" class="card-link">
                 <div class="circuit-card card">
-                  <img class="card-img-top" src="img/circuits/{{ circuit.slug }}.jpg" alt="Card image cap">
+                  <img class="card-img-top" src="img/circuits/{{ circuit.slug }}.jpg" alt="Image of track layout">
                   <div class="card-body">
                     <h5 class="card-title">
                       {{ circuit.name }}

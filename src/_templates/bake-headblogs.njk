@@ -7,17 +7,16 @@
 {% endblock %}
 
 {% block page_description %}
-  {{ headline }} by Athena Hawkins 
+  {{ headline }} article by Athena Hawkins 
 {% endblock %}
 
 {% block content %}
   <article class="container">
     <div class="row">
       <div class="col-sm-8">
-        <div class=text-center>
-          <img src="../img/{{ slug }}.jpg" alt="image" class="img-fluid baked-blog-img">
-        </div>
-        <h1 class="headline">{{ headline }}</h1>
+        <img src="../img/{{ slug }}.jpg" alt="image" class="img-fluid baked-blog-img">
+        <p class="caption">{{ caption }}</p>
+        <h1 class="blog-headline">{{ headline }}</h1>
         <p class="subtitle">{{ date }}</p>
         {{ prose(post) }}
       </div>
