@@ -20,11 +20,12 @@
 
 // Import partials
 
-@import 'nav';
 @import 'jumbotron';
 @import 'card';
 @import 'blogs';
 @import 'specialcards';
+@import 'charts';
+@import 'table';
 
 h1 {
   font-size: 2.5rem;
@@ -62,18 +63,4 @@ footer {
 .circuit-img {
   border-color: black;
   border-style: dashed;
-}
-
-// special class for charts on index page
-.chart {
-  margin-top: 25px;
-  margin-bottom: 25px;
-  justify-content: left;
-}
-
-// special class for table on winners page
-.table {
-  margin-top: 25px;
-  margin-bottom: 25px;
-  justify-content: center;
 }
