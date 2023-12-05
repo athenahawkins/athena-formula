@@ -1,19 +1,21 @@
 {% extends '_templates/base.njk' %}
 {% set relative_path = "../" %}
 
-{% block page_title %}{{ circuit_name }}{% endblock %}
+{% block page_title %}
+  {{ circuit_name }}
+{% endblock %}
 
-{% block page_description %}{{ circuit_name }}
+{% block page_description %}
+  {{ circuit_name }}
 {% endblock %}
 
 {% block content %}
 <article class="container">
   <h1>{{ name }}</h1>
-  <h2 class="subtitle"> Country: {{ country }}</h2>
   <div class="row justify-content-center">
-<div class="col-sm-4">
-      <img src="../img/circuits/{{ slug }}.jpg" alt="Track Layout via F1" class="img-fluid mb-4">
-      <span><p>{{ team_name }} Track layout via F1</p></span>
+    <div class="col-sm-4">
+      <img src="../img/circuits/{{ slug }}.jpg" alt="Track Layout via F1" class="img-fluid mb-4 circuit-img">
+      <span><p>{{ name }} layout via F1.</p></span>
     </div>
     <div class="col-sm-8">
       <div class="row">
@@ -29,7 +31,7 @@
           <div class="stats-card card mb-4">
             <div class="card-body">
               <h3 class="card-title">Most Recent Winner</h3>
-              <p>{{ full_name }}</p>
+              <p>{{ winner_name }}</p>
             </div>
           </div>
         </div>
@@ -47,8 +49,8 @@
           <h3>About</h3>
           <p>{{ blurb }}</p>
         </div>
+      </div>
     </div>
   </div>
-
 </article>
 {% endblock %}

@@ -1,171 +1,22 @@
 {
   "tracks": [
     {
-      "name": "Bahrain International Circuit",
+      "name": "Yas Marina Circuit",
       "winner_name": "Max Verstappen",
       "yr": 2023,
-      "location": "Sakhir, Bahrain",
-      "slug": "bahrain",
-      "round": "bahrain.jpg",
-      "blurb": "A marvel in the desert, the Bahrain International Circuit offers a unique blend of technical challenges and fast-paced racing. The track's layout features a mix of long straights, demanding hairpin turns, and tricky sections."
+      "location": "Abu Dhabi, United Arab Emirates",
+      "slug": "UAE",
+      "round": 23,
+      "blurb": "Known for its twilight race, it features tight corners and long straights, including the iconic backdrop of the Yas Hotel."
     },
     {
-      "name": "Jeddah Corniche Circuit",
-      "winner_name": "Sergio Pérez",
-      "yr": 2023,
-      "location": "Jeddah, Saudi Arabia",
-      "slug": "jeddah",
-      "round": "jeddah.jpg",
-      "blurb": "Carved along the Red Sea coastline, this adrenaline-fueled track marks Saudi Arabia's entry into the world of motorsport, captivating enthusiasts with its mesmerizing 6.175-kilometer layout, winding through the city's urban landscape. "
-    },
-    {
-      "name": "Albert Park Grand Prix Circuit",
+      "name": "Las Vegas Strip Street Circuit",
       "winner_name": "Max Verstappen",
       "yr": 2023,
-      "location": "Melbourne, Australia",
-      "slug": "australia",
-      "round": "australia.jpg",
-      "blurb": "The Albert Park Circuit, nestled in the heart of Melbourne, kicks off the Formula 1 season with its fast and flowing layout around Albert Park Lake. This temporary street circuit combines a mix of fast straights and challenging corners, including the high-speed sections around Turns 11 and 12, demanding precision and agility from drivers."
-    },
-    {
-      "name": "Baku City Circuit",
-      "winner_name": "Sergio Pérez",
-      "yr": 2023,
-      "location": "Baku, Azerbaijan",
-      "slug": "baku",
-      "round": "baku.jpg",
-      "blurb": "Renowned for its long straight and tight, narrow sections through the city streets, making it a high-speed challenge."
-    },
-    {
-      "name": "Miami International Autodrome",
-      "winner_name": "Max Verstappen",
-      "yr": 2023,
-      "location": "Miami, Florida",
-      "slug": "miami",
-      "round": "miami.jpg",
-      "blurb": "The Miami Autodrome made a thrilling addition to the Formula 1 roster and is a testament to the sport's growing American audience. This track, set in the vibrant city of Miami, embraces a blend of high-speed straights and technical corners designed to challenge the world's finest drivers. "
-    },
-    {
-      "name": "Circuit de Monaco",
-      "winner_name": "Max Verstappen",
-      "yr": 2023,
-      "location": "Monte Carlo, Monaco",
-      "slug": "monaco",
-      "round": "monaco.jpg",
-      "blurb": "The Circuit de Monaco is the iconic epitome of prestige, featuring narrow streets, tight corners, and limited overtaking opportunities, demanding precision and skill."
-    },
-    {
-      "name": "Circuit de Barcelona-Catalunya",
-      "winner_name": "Max Verstappen",
-      "yr": 2023,
-      "location": "Barcelona, Spain",
-      "slug": "spain",
-      "round": "spain.jpg",
-      "blurb": "The Circuit de Barcelona-Catalunya is a revered track in F1 that offers a diverse range of corners, testing the balance between high-speed sections and technical turns. "
-    },
-    {
-      "name": "Circuit Gilles-Villeneuve",
-      "winner_name": "Max Verstappen",
-      "yr": 2023,
-      "location": "Montreal, Canada",
-      "slug": "canada",
-      "round": "canada.jpg"
-    },
-    {
-      "name": "Red Bull Ring",
-      "winner_name": "Max Verstappen",
-      "yr": 2023,
-      "location": "Spielberg, Austria",
-      "slug": "austria",
-      "round": "austria.jpg"
-    },
-    {
-      "name": "Silverstone Circuit",
-      "winner_name": "Max Verstappen",
-      "yr": 2023,
-      "location": "Silverstone, United Kingdom",
-      "slug": "silverstone",
-      "round": "silverstone.jpg",
-      "blurb": "It's one of the oldest F1 circuits, and it's iconic. A high-speed track with fast corners like Copse and Maggots-Becketts-Chapel complex."
-    },
-    {
-      "name": "Hungaroring",
-      "winner_name": "Max Verstappen",
-      "yr": 2023,
-      "location": "Mogyoród, Hungary",
-      "slug": "hungary",
-      "round": "hungary.jpg",
-      "blurb": "A twisty, technical track with limited overtaking chances, testing driver skills on tight corners and short straights."
-    },
-    {
-      "name": "Circuit de Spa-Francorchamps",
-      "winner_name": "Max Verstappen",
-      "yr": 2023,
-      "location": "Stavelot, Belgium",
-      "slug": "spa",
-      "round": "spa.jpg",
-      "blurb": "Spa-Francorchamps is a legendary track that winds through the picturesque Ardennes forest. Its undulating layout combines high-speed straights like the famed Eau Rouge-Raidillon complex with challenging corners such as Pouhon and Blanchimont, testing the mettle and bravery of drivers."
-    },
-    {
-      "name": "Circuit Park Zandvoort",
-      "winner_name": "Max Verstappen",
-      "yr": 2023,
-      "location": "Zandvoort, Netherlands",
-      "slug": "netherlands",
-      "round": "netherlands.jpg",
-      "blurb": "A classic track revived for F1, featuring banked corners and elevation changes, offering a challenging, fast-paced race."
-    },
-    {
-      "name": "Autodromo Nazionale di Monza",
-      "winner_name": "Max Verstappen",
-      "yr": 2023,
-      "location": "Monza, Italy",
-      "slug": "monza",
-      "round": "monza.jpg"
-    },
-    {
-      "name": "Marina Bay Street Circuit",
-      "winner_name": "Carlos Sainz",
-      "yr": 2023,
-      "location": "Marina Bay, Signapore",
-      "slug": "singapore",
-      "round": "singapore.jpg",
-      "blurb": "The Marina Bay Street Circuit is a captivating fusion of speed and spectacle. Illuminated by a stunning array of lights against the backdrop of Singapore's skyline, this challenging track winds through the heart of the city."
-    },
-    {
-      "name": "Suzuka International Racing Course",
-      "winner_name": "Max Verstappen",
-      "yr": 2023,
-      "location": "Suzuka, Japan",
-      "slug": "japan",
-      "round": "japan.jpg",
-      "blurb": "A figure-eight track with challenging corners like the 'S' Curves and the famous 130R, known for its demanding yet rewarding layout."
-    },
-    {
-      "name": "Losail International Circuit",
-      "winner_name": "Max Verstappen",
-      "yr": 2023,
-      "location": "Losail, Qatar",
-      "slug": "qatar",
-      "round": "qatar.jpg",
-      "blurb": "Born to host high-speed thrills, the Losail International Circuit, conceived in a whirlwind to accommodate Qatar's inaugural MotoGP in 2004, has since evolved to embrace the pinnacle of motorsport, welcoming its maiden Formula 1 Grand Prix in 2021. "
-    },
-    {
-      "name": "Circuit of the Americas",
-      "winner_name": "Max Verstappen",
-      "yr": 2023,
-      "location": "Austin, Texas",
-      "slug": "cota",
-      "round": "cota.jpg",
-      "blurb": "This modern track in the heart of Texas boasts elevation changes, multiple challenging turns, and a thrilling atmosphere, for the US Grand Prix."
-    },
-    {
-      "name": "Autódromo Hermanos Rodríguez",
-      "winner_name": "Max Verstappen",
-      "yr": 2023,
-      "location": "Mexico City, Mexico",
-      "slug": "mexico",
-      "round": "mexico.jpg"
+      "location": "Las Vegas, Nevada",
+      "slug": "vegas",
+      "round": 22,
+      "blurb": "Welcoming the glitz and glamour of the entertainment capital, the Las Vegas Street Circuit offers a thrilling urban racing experience against the backdrop of the city's iconic landmarks. This newly introduced track is characterized by long, fast straights that wind through the bustling streets, providing adrenaline-pumping moments for drivers and fans alike. "
     },
     {
       "name": "Autódromo José Carlos Place",
@@ -173,25 +24,179 @@
       "yr": 2023,
       "location": "São Paulo, Brazil",
       "slug": "brazil",
-      "round": "brazil.jpg"
+      "round": 21,
+      "blurb": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Vulputate mi sit amet mauris commodo quis imperdiet. Nullam eget felis eget nunc lobortis mattis aliquam. Ultricies lacus sed turpis tincidunt id."
     },
     {
-      "name": "Las Vegas Strip Street Circuit",
+      "name": "Autódromo Hermanos Rodríguez",
       "winner_name": "Max Verstappen",
       "yr": 2023,
-      "location": "Las Vegas, Nevada",
-      "slug": "las vegas",
-      "round": "las vegas.jpg",
-      "blurb": "Welcoming the glitz and glamour of the entertainment capital, the Las Vegas Street Circuit offers a thrilling urban racing experience against the backdrop of the city's iconic landmarks. This newly introduced track is characterized by long, fast straights that wind through the bustling streets, providing adrenaline-pumping moments for drivers and fans alike. "
+      "location": "Mexico City, Mexico",
+      "slug": "mexico",
+      "round": 20,
+      "blurb": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Vulputate mi sit amet mauris commodo quis imperdiet. Nullam eget felis eget nunc lobortis mattis aliquam. Ultricies lacus sed turpis tincidunt id."
     },
     {
-      "name": "Yas Marina Circuit",
+      "name": "Circuit of the Americas",
       "winner_name": "Max Verstappen",
       "yr": 2023,
-      "location": "Abu Dhabi, United Arab Emirates",
-      "slug": "UAE",
-      "round": "UAE.jpg",
-      "blurb": "Known for its twilight race, it features tight corners and long straights, including the iconic backdrop of the Yas Hotel."
+      "location": "Austin, Texas",
+      "slug": "USA",
+      "round": 19,
+      "blurb": "This modern track in the heart of Texas boasts elevation changes, multiple challenging turns, and a thrilling atmosphere, for the US Grand Prix."
+    },
+    {
+      "name": "Losail International Circuit",
+      "winner_name": "Max Verstappen",
+      "yr": 2023,
+      "location": "Losail, Qatar",
+      "slug": "qatar",
+      "round": 18,
+      "blurb": "Born to host high-speed thrills, the Losail International Circuit, conceived in a whirlwind to accommodate Qatar's inaugural MotoGP in 2004, has since evolved to embrace the pinnacle of motorsport, welcoming its maiden Formula 1 Grand Prix in 2021. "
+    },
+    {
+      "name": "Suzuka International Racing Course",
+      "winner_name": "Max Verstappen",
+      "yr": 2023,
+      "location": "Suzuka, Japan",
+      "slug": "japan",
+      "round": 17,
+      "blurb": "A figure-eight track with challenging corners like the 'S' Curves and the famous 130R, known for its demanding yet rewarding layout."
+    },
+    {
+      "name": "Marina Bay Street Circuit",
+      "winner_name": "Carlos Sainz",
+      "yr": 2023,
+      "location": "Marina Bay, Signapore",
+      "slug": "singapore",
+      "round": 15,
+      "blurb": "The Marina Bay Street Circuit is a captivating fusion of speed and spectacle. Illuminated by a stunning array of lights against the backdrop of Singapore's skyline, this challenging track winds through the heart of the city."
+    },
+    {
+      "name": "Autodromo Nazionale di Monza",
+      "winner_name": "Max Verstappen",
+      "yr": 2023,
+      "location": "Monza, Italy",
+      "slug": "monza",
+      "round": 14,
+      "blurb": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Vulputate mi sit amet mauris commodo quis imperdiet. Nullam eget felis eget nunc lobortis mattis aliquam. Ultricies lacus sed turpis tincidunt id."
+    },
+    {
+      "name": "Circuit Park Zandvoort",
+      "winner_name": "Max Verstappen",
+      "yr": 2023,
+      "location": "Zandvoort, Netherlands",
+      "slug": "netherlands",
+      "round": 13,
+      "blurb": "A classic track revived for F1, featuring banked corners and elevation changes, offering a challenging, fast-paced race."
+    },
+    {
+      "name": "Circuit de Spa-Francorchamps",
+      "winner_name": "Max Verstappen",
+      "yr": 2023,
+      "location": "Stavelot, Belgium",
+      "slug": "belgium",
+      "round": 12,
+      "blurb": "Spa-Francorchamps is a legendary track that winds through the picturesque Ardennes forest. Its undulating layout combines high-speed straights like the famed Eau Rouge-Raidillon complex with challenging corners such as Pouhon and Blanchimont, testing the mettle and bravery of drivers."
+    },
+    {
+      "name": "Hungaroring",
+      "winner_name": "Max Verstappen",
+      "yr": 2023,
+      "location": "Mogyoród, Hungary",
+      "slug": "hungary",
+      "round": 11,
+      "blurb": "A twisty, technical track with limited overtaking chances, testing driver skills on tight corners and short straights."
+    },
+    {
+      "name": "Silverstone Circuit",
+      "winner_name": "Max Verstappen",
+      "yr": 2023,
+      "location": "Silverstone, United Kingdom",
+      "slug": "UK",
+      "round": 10,
+      "blurb": "It's one of the oldest F1 circuits, and it's iconic. A high-speed track with fast corners like Copse and Maggots-Becketts-Chapel complex."
+    },
+    {
+      "name": "Red Bull Ring",
+      "winner_name": "Max Verstappen",
+      "yr": 2023,
+      "location": "Spielberg, Austria",
+      "slug": "austria",
+      "round": 9,
+      "blurb": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Vulputate mi sit amet mauris commodo quis imperdiet. Nullam eget felis eget nunc lobortis mattis aliquam. Ultricies lacus sed turpis tincidunt id."
+    },
+    {
+      "name": "Circuit Gilles-Villeneuve",
+      "winner_name": "Max Verstappen",
+      "yr": 2023,
+      "location": "Montreal, Canada",
+      "slug": "canada",
+      "round": 8,
+      "blurb": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Vulputate mi sit amet mauris commodo quis imperdiet. Nullam eget felis eget nunc lobortis mattis aliquam. Ultricies lacus sed turpis tincidunt id."
+    },
+    {
+      "name": "Circuit de Barcelona-Catalunya",
+      "winner_name": "Max Verstappen",
+      "yr": 2023,
+      "location": "Barcelona, Spain",
+      "slug": "spain",
+      "round": 7,
+      "blurb": "The Circuit de Barcelona-Catalunya is a revered track in F1 that offers a diverse range of corners, testing the balance between high-speed sections and technical turns. "
+    },
+    {
+      "name": "Circuit de Monaco",
+      "winner_name": "Max Verstappen",
+      "yr": 2023,
+      "location": "Monte Carlo, Monaco",
+      "slug": "monaco",
+      "round": 6,
+      "blurb": "The Circuit de Monaco is the iconic epitome of prestige, featuring narrow streets, tight corners, and limited overtaking opportunities, demanding precision and skill."
+    },
+    {
+      "name": "Miami International Autodrome",
+      "winner_name": "Max Verstappen",
+      "yr": 2023,
+      "location": "Miami, Florida",
+      "slug": "miami",
+      "round": 5,
+      "blurb": "The Miami Autodrome made a thrilling addition to the Formula 1 roster and is a testament to the sport's growing American audience. This track, set in the vibrant city of Miami, embraces a blend of high-speed straights and technical corners designed to challenge the world's finest drivers. "
+    },
+    {
+      "name": "Baku City Circuit",
+      "winner_name": "Sergio Pérez",
+      "yr": 2023,
+      "location": "Baku, Azerbaijan",
+      "slug": "baku",
+      "round": 4,
+      "blurb": "Renowned for its long straight and tight, narrow sections through the city streets, making it a high-speed challenge."
+    },
+    {
+      "name": "Albert Park Grand Prix Circuit",
+      "winner_name": "Max Verstappen",
+      "yr": 2023,
+      "location": "Melbourne, Australia",
+      "slug": "australia",
+      "round": 3,
+      "blurb": "The Albert Park Circuit, nestled in the heart of Melbourne, kicks off the Formula 1 season with its fast and flowing layout around Albert Park Lake. This temporary street circuit combines a mix of fast straights and challenging corners, including the high-speed sections around Turns 11 and 12, demanding precision and agility from drivers."
+    },
+    {
+      "name": "Jeddah Corniche Circuit",
+      "winner_name": "Sergio Pérez",
+      "yr": 2023,
+      "location": "Jeddah, Saudi Arabia",
+      "slug": "jeddah",
+      "round": 2,
+      "blurb": "Carved along the Red Sea coastline, this adrenaline-fueled track marks Saudi Arabia's entry into the world of motorsport, captivating enthusiasts with its mesmerizing 6.175-kilometer layout, winding through the city's urban landscape. "
+    },
+    {
+      "name": "Bahrain International Circuit",
+      "winner_name": "Max Verstappen",
+      "yr": 2023,
+      "location": "Sakhir, Bahrain",
+      "slug": "bahrain",
+      "round": 1,
+      "blurb": "A marvel in the desert, the Bahrain International Circuit offers a unique blend of technical challenges and fast-paced racing. The track's layout features a mix of long straights, demanding hairpin turns, and tricky sections."
     }
   ],
   "track_info": [
@@ -202,7 +207,6 @@
       "date": "",
       "blurb": "The Circuit de Monaco is the iconic epitome of prestige, featuring narrow streets, tight corners, and limited overtaking opportunities, demanding precision and skill.",
       "source": "",
-      "img": "monaco.jpg",
       "slug": "monaco"
     },
     {
@@ -212,7 +216,6 @@
       "date": "",
       "blurb": "The Albert Park Circuit, nestled in the heart of Melbourne, kicks off the Formula 1 season with its fast and flowing layout around Albert Park Lake. This temporary street circuit combines a mix of fast straights and challenging corners, including the high-speed sections around Turns 11 and 12, demanding precision and agility from drivers.",
       "source": "",
-      "img": "australia.jpg",
       "slug": "australia"
     },
     {
@@ -222,8 +225,7 @@
       "date": "",
       "blurb": "Welcoming the glitz and glamour of the entertainment capital, the Las Vegas Street Circuit offers a thrilling urban racing experience against the backdrop of the city's iconic landmarks. This newly introduced track is characterized by long, fast straights that wind through the bustling streets, providing adrenaline-pumping moments for drivers and fans alike. ",
       "source": "",
-      "img": "las vegas.jpg",
-      "slug": "las vegas"
+      "slug": "vegas"
     },
     {
       "circuit_name": "Circuit of the Americas",
@@ -232,8 +234,7 @@
       "date": "",
       "blurb": "This modern track in the heart of Texas boasts elevation changes, multiple challenging turns, and a thrilling atmosphere, for the US Grand Prix.",
       "source": "",
-      "img": "cota.jpg",
-      "slug": "cota"
+      "slug": "USA"
     },
     {
       "circuit_name": "Bahrain International Circuit",
@@ -242,7 +243,6 @@
       "date": "",
       "blurb": "A marvel in the desert, the Bahrain International Circuit offers a unique blend of technical challenges and fast-paced racing. The track's layout features a mix of long straights, demanding hairpin turns, and tricky sections.",
       "source": "",
-      "img": "bahrain.jpg",
       "slug": "bahrain"
     },
     {
@@ -252,7 +252,6 @@
       "date": "",
       "blurb": "The Marina Bay Street Circuit is a captivating fusion of speed and spectacle. Illuminated by a stunning array of lights against the backdrop of Singapore's skyline, this challenging track winds through the heart of the city.",
       "source": "",
-      "img": "singapore.jpg",
       "slug": "singapore"
     },
     {
@@ -262,7 +261,6 @@
       "date": "",
       "blurb": "The Miami Autodrome made a thrilling addition to the Formula 1 roster and is a testament to the sport's growing American audience. This track, set in the vibrant city of Miami, embraces a blend of high-speed straights and technical corners designed to challenge the world's finest drivers. ",
       "source": "",
-      "img": "miami.jpg",
       "slug": "miami"
     },
     {
@@ -272,7 +270,6 @@
       "date": "",
       "blurb": "Born to host high-speed thrills, the Losail International Circuit, conceived in a whirlwind to accommodate Qatar's inaugural MotoGP in 2004, has since evolved to embrace the pinnacle of motorsport, welcoming its maiden Formula 1 Grand Prix in 2021. ",
       "source": "",
-      "img": "qatar.jpg",
       "slug": "qatar"
     },
     {
@@ -282,7 +279,6 @@
       "date": "",
       "blurb": "Carved along the Red Sea coastline, this adrenaline-fueled track marks Saudi Arabia's entry into the world of motorsport, captivating enthusiasts with its mesmerizing 6.175-kilometer layout, winding through the city's urban landscape. ",
       "source": "",
-      "img": "jeddah.jpg",
       "slug": "jeddah"
     },
     {
@@ -292,7 +288,6 @@
       "date": "",
       "blurb": "Renowned for its long straight and tight, narrow sections through the city streets, making it a high-speed challenge.",
       "source": "",
-      "img": "baku.jpg",
       "slug": "baku"
     },
     {
@@ -302,7 +297,6 @@
       "date": "",
       "blurb": "The Circuit de Barcelona-Catalunya is a revered track in F1 that offers a diverse range of corners, testing the balance between high-speed sections and technical turns. ",
       "source": "",
-      "img": "spain.jpg",
       "slug": "spain"
     },
     {
@@ -312,7 +306,6 @@
       "date": "",
       "blurb": "A figure-eight track with challenging corners like the 'S' Curves and the famous 130R, known for its demanding yet rewarding layout.",
       "source": "",
-      "img": "japan.jpg",
       "slug": "japan"
     },
     {
@@ -322,7 +315,6 @@
       "date": "",
       "blurb": "A twisty, technical track with limited overtaking chances, testing driver skills on tight corners and short straights.",
       "source": "",
-      "img": "hungary.jpg",
       "slug": "hungary"
     },
     {
@@ -332,7 +324,6 @@
       "date": "",
       "blurb": "",
       "source": "",
-      "img": "canada.jpg",
       "slug": "canada"
     },
     {
@@ -342,7 +333,6 @@
       "date": "",
       "blurb": "",
       "source": "",
-      "img": "brazil.jpg",
       "slug": "brazil"
     },
     {
@@ -352,7 +342,6 @@
       "date": "",
       "blurb": "",
       "source": "",
-      "img": "austria.jpg",
       "slug": "austria"
     },
     {
@@ -362,7 +351,6 @@
       "date": "",
       "blurb": "",
       "source": "",
-      "img": "mexico.jpg",
       "slug": "mexico"
     },
     {
@@ -372,7 +360,6 @@
       "date": "",
       "blurb": "A classic track revived for F1, featuring banked corners and elevation changes, offering a challenging, fast-paced race.",
       "source": "",
-      "img": "netherlands.jpg",
       "slug": "netherlands"
     },
     {
@@ -382,7 +369,6 @@
       "date": "",
       "blurb": "",
       "source": "",
-      "img": "monza.jpg",
       "slug": "monza"
     },
     {
@@ -392,8 +378,7 @@
       "date": "",
       "blurb": "Spa-Francorchamps is a legendary track that winds through the picturesque Ardennes forest. Its undulating layout combines high-speed straights like the famed Eau Rouge-Raidillon complex with challenging corners such as Pouhon and Blanchimont, testing the mettle and bravery of drivers.",
       "source": "",
-      "img": "spa.jpg",
-      "slug": "spa"
+      "slug": "belgium"
     },
     {
       "circuit_name": "Silverstone Circuit",
@@ -402,8 +387,7 @@
       "date": "",
       "blurb": "It's one of the oldest F1 circuits, and it's iconic. A high-speed track with fast corners like Copse and Maggots-Becketts-Chapel complex.",
       "source": "",
-      "img": "silverstone.jpg",
-      "slug": "silverstone"
+      "slug": "UK"
     },
     {
       "circuit_name": "Yas Marina Circuit",
@@ -412,7 +396,6 @@
       "date": "",
       "blurb": "Known for its twilight race, it features tight corners and long straights, including the iconic backdrop of the Yas Hotel.",
       "source": "",
-      "img": "UAE.jpg",
       "slug": "UAE"
     }
   ]

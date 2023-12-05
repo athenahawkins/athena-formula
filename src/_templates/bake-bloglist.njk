@@ -7,24 +7,25 @@
 {% endblock %}
 
 {% block page_description %}
-  {{ headline }} by Athena Hawkins 
+  {{ headline }}, a blog by Athena Hawkins. 
 {% endblock %}
 
 {% block content %}
-  <article class="container">
-    <div class="row">
-      <div class="col-sm-8">
-            <h1 class="blog-headline">{{ headline }}</h1>
+<article class="container">
+  <div class="row">
+    <div class="col-sm-8">
+      <h1 class="blog-headline">{{ headline }}</h1>
       <p class="blog-subtitle">{{ date }}</p>
-        {{ prose(post) }}
-      </div>
-            <div class="col-sm-4">
-        <img src="../img/headshot.jpg" alt="image" class="img-thumbnail small-headshot">
-        <p class="byline">By Athena Hawkins<br>
-          <span>Formula1 Females</span>
-        </p>
-        <hr class="d-sm-none">
-      </div>
+      {{ prose(post) }}
     </div>
-  </article>
+    <div class="col-sm-4">
+      <img src="../img/headshot.jpg" alt="image" class="img-thumbnail small-headshot">
+      <p class="byline">By Athena Hawkins<br>
+        <span>Formula1 Females</span>
+      </p>
+      <hr class="d-sm-none">
+    </div>
+  </div>
+</article>
 {% endblock %}
+

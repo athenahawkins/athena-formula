@@ -57,3 +57,9 @@ footer {
 .index-section {
   margin-top: 25px;
 }
+
+// special class for the circuit image since it didn't have a border
+.circuit-img {
+  border-color: black;
+  border-style: dashed;
+}

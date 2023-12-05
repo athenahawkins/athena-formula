@@ -1,42 +1,45 @@
 {% extends '_templates/base.njk' %}
 
 {% block page_title %}
-Home
+  Home
 {% endblock %}
 
 {% block page_description %}
-Home page with news and blogs.
+  Home page with news and blogs.
 {% endblock %}
 
 {% block content %}
-<div class="container">
-  <h1>Welcome to the Grid</h1>
-  <p class="intro">It's lights out and away we go! Check out up-to-date F1 standings and blogs — they'll have you navigating the twists and turns of this sport faster than Max Verstappen. Dive into our drivers, constructors and circuits pages. Here's how we get our <a href= "http://athenahawkins.github.io/formula-site/">data.</a></p>
-  <h2>Stay on Track</h2>
-  <p>Keep up with the newest news from the paddock.</p>
-  <div class="row">
-    {% for blog in headblogs.blogs %}
-      <div class="col-lg-4 col-md-4 col-sm-6">
-        <img src="img/{{ blog.slug }}.jpg" alt="F1 news image" class="img-fluid">
-        <h3><a href="headblogs/{{ blog.slug }}.html">{{ blog.headline }}</a></h3>
-      </div>
+  <div class="container">
+    <h1>Welcome to the Grid</h1>
+    <p class="intro">It's lights out and away we go! Check out up-to-date F1 standings and blogs — they'll have you navigating the twists and turns of this sport faster than Max Verstappen. Dive into our drivers, constructors and circuits pages. Here's how we get our <a href="http://athenahawkins.github.io/formula-site/">data.</a></p>
+    <h2>Stay on Track</h2>
+    <p>Keep up with the newest news from the paddock.</p>
+    <div class="row">
+      {% for blog in headblogs.blogs %}
+        <div class="col-lg-4 col-md-4 col-sm-6">
+          <img src="img/{{ blog.slug }}.jpg" alt="F1 news image" class="img-fluid">
+          <h3><a href="headblogs/{{ blog.slug }}.html">{{ blog.headline }}</a></h3>
+          <p>{{ blog.date }}</p>
+        </div>
+      {% endfor %}
+    </div>
+    <h2 class="index-section">Blogs</h2>
+    <p>Check out real-time updates, race commentary, and the latest breaking news.</p>
+    <hr>
+    {% for blog in bloglist.blogs %}
+      <h3><a href="bloglist/{{ blog.slug }}.html" target="_blank">{{ blog.headline }}</a></h3>
+      <p>{{ blog.date }}</p>
+      <hr>
     {% endfor %}
   </div>
-  <h2 class="index-section">Blogs</h2>
-  <p>Check out real-time updates, race commentary, and the latest breaking news.</p>
-  <hr>
-  {% for blog in bloglist.blogs %}
-    <h3><a href="bloglist/{{ blog.slug }}.html" target="_blank">{{ blog.headline }}</a></h3>
-    <p>{{ blog.date }}</p>
-    <hr>
-  {% endfor %}
-</div>
-<div class="container">
-  <div class="col-lg-10">
-  <h2 class="index-section">Latest Stats</h2>
-  <p>Visualize the latest standings with updated graphics.</p>
-<div style="min-height:663px"><script type="text/javascript" defer src="https://datawrapper.dwcdn.net/J9Rp6/embed.js?v=1" charset="utf-8"></script><noscript><img src="https://datawrapper.dwcdn.net/J9Rp6/full.png" alt="Graph of current F1 drivers standings, updated weekly." /></noscript>
-</div>
-</div>
-</div>
+  <div class="container">
+    <div class="col-lg-10">
+      <h2 class="index-section">Latest Stats</h2>
+      <p>Visualize the latest standings with updated graphics.</p>
+      <div style="min-height:663px">
+        <script type="text/javascript" defer src="https://datawrapper.dwcdn.net/J9Rp6/embed.js?v=1" charset="utf-8"></script>
+        <noscript><img src="https://datawrapper.dwcdn.net/J9Rp6/full.png" alt="Graph of current F1 drivers standings, updated weekly." /></noscript>
+      </div>
+    </div>
+  </div>
 {% endblock %}

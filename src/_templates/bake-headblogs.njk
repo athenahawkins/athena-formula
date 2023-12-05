@@ -7,39 +7,41 @@
 {% endblock %}
 
 {% block page_description %}
-  {{ headline }} article by Athena Hawkins 
+  {{ headline }}, an article by Athena Hawkins.
 {% endblock %}
 
 {% block content %}
-  <article class="container">
-    <div class="row">
-      <div class="col-sm-8">
-        <img src="../img/{{ slug }}.jpg" alt="image" class="img-fluid baked-blog-img">
-        <p class="caption">{{ caption }}</p>
-        <h1 class="blog-headline">{{ headline }}</h1>
-        <p class="subtitle">{{ date }}</p>
-        {{ prose(post) }}
-      </div>
+<article class="container">
+  <div class="row">
+    <div class="col-sm-8">
+      <img src="../img/{{ slug }}.jpg" alt="image" class="img-fluid baked-blog-img">
+      <p class="caption">{{ caption }}</p>
+      <h1 class="blog-headline">{{ headline }}</h1>
+      <p class="blog-subtitle">{{ date }}</p>
+      {{ prose(post) }}
+    </div>
+    <hr class="d-sm-none">
+    <div class="col-sm-4">
+      <img src="../img/headshot.jpg" alt="image" class="img-thumbnail small-headshot">
+      <p class="byline">By Athena Hawkins<br>
+        <span>Formula1 Females</span>
+      </p>
       <hr class="d-sm-none">
-      <div class="col-sm-4">
-        <img src="../img/headshot.jpg" alt="image" class="img-thumbnail small-headshot">
-        <p class="byline">By Athena Hawkins<br>
-          <span>Formula1 Females</span>
-        </p>
-        <hr class="d-sm-none">
       <div class="bloglist-small">
         <p class="bloglist-headline">More Top Stories:</p>
         {% for blog in headblogs.blogs %}
           {% if blog.slug != slug %}
             <p><a href="{{ blog.slug }}.html">{{ blog.headline }}</a></p>
-        <hr class="d-sm-none">
+            <hr class="d-sm-none">
           {% endif %}
         {% endfor %}
       </div>
-        <hr class="d-sm-none">
-      </div>
-        {# <hr class="d-sm-none"> #}
-      </div>
+      <hr class="d-sm-none">
     </div>
-  </article>
+    {# <hr class="d-sm-none"> #}
+  </div>
+</div>
+</article>
 {% endblock %}
+
+

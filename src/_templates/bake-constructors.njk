@@ -1,21 +1,23 @@
 {% extends '_templates/base.njk' %}
 {% set relative_path = "../" %}
 
-{% block page_title %}{{ team_name }}{% endblock %}
+{% block page_title %}
+  {{ team_name }}
+{% endblock %}
 
-{% block page_description %}{{ team_name }} team description page. {% endblock %}
-
+{% block page_description %}
+  {{ team_name }} team description page.
+{% endblock %}
 
 {% block content %}
 <article class="container">
   <h1>{{ team_name }}</h1>
   <h2 class="subtitle"> Drivers: {{ drivers }}</h2>
   <div class="row justify-content-center">
-<div class="col-sm-8">
+    <div class="col-sm-8">
       <img src="../img/teams/{{ img }}" alt="Constructor Car Image" class="img-fluid mb-4">
       <span><p>{{ team_name }} 2023 livery via F1</p></span>
     </div>
-
     <div class="col-sm-8">
       <div class="row">
         <div class="col-lg-4 col-md-4">
@@ -48,6 +50,7 @@
           <h3>About</h3>
           <p>{{ blurb }}</p>
         </div>
+      </div>
     </div>
   </div>
 </article>
