@@ -14,13 +14,13 @@
   <h1>{{ name }}</h1>
   <div class="row justify-content-center">
     <div class="col-sm-4">
-      <img src="../img/circuits/{{ slug }}.jpg" alt="Track Layout via F1" class="img-fluid mb-4 circuit-img">
-      <span><p>{{ name }} layout via F1.</p></span>
+      <img src="../img/circuits/{{ slug }}.jpg" alt="Track Layout via F1" class="img-fluid mb-1 circuit-img">
+      <p class="caption">{{ name }} layout via F1.</p>
     </div>
     <div class="col-sm-8">
       <div class="row">
         <div class="col-lg-4 col-md-4">
-          <div class="stats-card card mb-4">
+          <div class="circuit-stats-card card mb-4">
             <div class="card-body">
               <h3 class="card-title">Location</h3>
               <p>{{ location }}</p>
@@ -28,7 +28,7 @@
           </div>
         </div>
         <div class="col-lg-4 col-md-4">
-          <div class="stats-card card mb-4">
+          <div class="circuit-stats-card card mb-4">
             <div class="card-body">
               <h3 class="card-title">Most Recent Winner</h3>
               <p>{{ winner_name }}</p>
@@ -36,7 +36,7 @@
           </div>
         </div>
         <div class="col-lg-4 col-md-4">
-          <div class="stats-card card mb-4">
+          <div class="circuit-stats-card card mb-4">
             <div class="card-body">
               <h3 class="card-title">Round</h3>
               <p>#{{ round }}</p>

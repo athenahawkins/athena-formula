@@ -7,7 +7,7 @@
       "location": "Abu Dhabi, United Arab Emirates",
       "slug": "UAE",
       "round": 23,
-      "blurb": "Known for its twilight race, it features tight corners and long straights, including the iconic backdrop of the Yas Hotel."
+      "blurb": "The Yas Marina Circuit, which has served as a dazzling conclusion to recent Formula1 seasons, is known for its epic twilight race. The track features tight corners and long straights, and it includes the backdrop of the Yas Hotel. It's served as the final stretch for drivers and constructors aching to etch out a few more points in the championship standings,"
     },
     {
       "name": "Las Vegas Strip Street Circuit",
@@ -16,7 +16,7 @@
       "location": "Las Vegas, Nevada",
       "slug": "vegas",
       "round": 22,
-      "blurb": "Welcoming the glitz and glamour of the entertainment capital, the Las Vegas Street Circuit offers a thrilling urban racing experience against the backdrop of the city's iconic landmarks. This newly introduced track is characterized by long, fast straights that wind through the bustling streets, providing adrenaline-pumping moments for drivers and fans alike. "
+      "blurb": "This track welcomes the glitz and glamour of the entertainment capital, the Las Vegas Street Circuit offers a thrilling urban racing experience against the backdrop of the city's iconic landmarks. This newly introduced track is characterized by long, fast straights that wind through the bustling streets, providing adrenaline-pumping moments for drivers and fans alike. "
     },
     {
       "name": "Autódromo José Carlos Place",
@@ -43,7 +43,7 @@
       "location": "Austin, Texas",
       "slug": "USA",
       "round": 19,
-      "blurb": "This modern track in the heart of Texas boasts elevation changes, multiple challenging turns, and a thrilling atmosphere, for the US Grand Prix."
+      "blurb": "This modern track in the heart of Texas boasts huge elevation changes, multiple challenging turns, and a thrilling atmosphere. Hundreds of thousands of fans from across the country flock to the Circuit of the Americas for a weekend full of racing, music and Texan pride."
     },
     {
       "name": "Losail International Circuit",
@@ -52,7 +52,7 @@
       "location": "Losail, Qatar",
       "slug": "qatar",
       "round": 18,
-      "blurb": "Born to host high-speed thrills, the Losail International Circuit, conceived in a whirlwind to accommodate Qatar's inaugural MotoGP in 2004, has since evolved to embrace the pinnacle of motorsport, welcoming its maiden Formula 1 Grand Prix in 2021. "
+      "blurb": "The Losail International Circuit, conceived in a whirlwind to accommodate Qatar's inaugural MotoGP in 2004, was born to host high-speed thrills. It has since evolved to embrace the pinnacle of motorsport, welcoming its maiden Formula 1 Grand Prix in 2021. "
     },
     {
       "name": "Suzuka International Racing Course",
@@ -88,7 +88,7 @@
       "location": "Zandvoort, Netherlands",
       "slug": "netherlands",
       "round": 13,
-      "blurb": "A classic track revived for F1, featuring banked corners and elevation changes, offering a challenging, fast-paced race."
+      "blurb": "Spanning approximately 4.3 kilometers, Zandvoort features a mix of fast, sweeping sections and tight, technical corners. The track begins with the high-speed Tarzanbocht, a sharp hairpin turn that often sets the stage for overtaking maneuvers at the end of the main straight."
     },
     {
       "name": "Circuit de Spa-Francorchamps",
@@ -106,7 +106,7 @@
       "location": "Mogyoród, Hungary",
       "slug": "hungary",
       "round": 11,
-      "blurb": "A twisty, technical track with limited overtaking chances, testing driver skills on tight corners and short straights."
+      "blurb": "The Hungaroring is a twisty, technical track with limited overtaking chances, testing driver skills on tight corners and short straights."
     },
     {
       "name": "Silverstone Circuit",
@@ -151,7 +151,7 @@
       "location": "Monte Carlo, Monaco",
       "slug": "monaco",
       "round": 6,
-      "blurb": "The Circuit de Monaco is the iconic epitome of prestige, featuring narrow streets, tight corners, and limited overtaking opportunities, demanding precision and skill."
+      "blurb": "The Circuit de Monaco is iconic. The epitome of prestige, featuring narrow streets, tight corners, hairpin turns and limited overtaking opportunities. It demands skill and precision, and all it takes is a bit of rain to make it one of the most interesting tracks of the season. At this track, qualifying is key."
     },
     {
       "name": "Miami International Autodrome",
@@ -160,7 +160,7 @@
       "location": "Miami, Florida",
       "slug": "miami",
       "round": 5,
-      "blurb": "The Miami Autodrome made a thrilling addition to the Formula 1 roster and is a testament to the sport's growing American audience. This track, set in the vibrant city of Miami, embraces a blend of high-speed straights and technical corners designed to challenge the world's finest drivers. "
+      "blurb": "The Miami Autodrome made a thrilling addition to the Formula 1 roster recently, and it is a testament to the sport's growing American audience. This track, set in the vibrant city of Miami, Florida, embraces a blend of high-speed straights and technical corners designed to challenge the world's finest drivers. "
     },
     {
       "name": "Baku City Circuit",
@@ -169,7 +169,7 @@
       "location": "Baku, Azerbaijan",
       "slug": "baku",
       "round": 4,
-      "blurb": "Renowned for its long straight and tight, narrow sections through the city streets, making it a high-speed challenge."
+      "blurb": "The Baky city circuit in Azerbaijan is renowned for its long straight and tight, narrow sections through the city streets, making it a high-speed challenge."
     },
     {
       "name": "Albert Park Grand Prix Circuit",
@@ -196,7 +196,7 @@
       "location": "Sakhir, Bahrain",
       "slug": "bahrain",
       "round": 1,
-      "blurb": "A marvel in the desert, the Bahrain International Circuit offers a unique blend of technical challenges and fast-paced racing. The track's layout features a mix of long straights, demanding hairpin turns, and tricky sections."
+      "blurb": "The Bahrain International Circuit, a marvel of a track, offers a unique blend of technical challenges and fast-paced racing. The track's layout features a mix of long straights, demanding hairpin turns, and tricky sections."
     }
   ],
   "track_info": [
@@ -205,7 +205,7 @@
       "name": "",
       "location": "Monte Carlo, Monaco",
       "date": "",
-      "blurb": "The Circuit de Monaco is the iconic epitome of prestige, featuring narrow streets, tight corners, and limited overtaking opportunities, demanding precision and skill.",
+      "blurb": "The Circuit de Monaco is iconic. The epitome of prestige, featuring narrow streets, tight corners, hairpin turns and limited overtaking opportunities. It demands skill and precision, and all it takes is a bit of rain to make it one of the most interesting tracks of the season. At this track, qualifying is key.",
       "source": "",
       "slug": "monaco"
     },
@@ -223,7 +223,7 @@
       "name": "",
       "location": "Las Vegas, Nevada",
       "date": "",
-      "blurb": "Welcoming the glitz and glamour of the entertainment capital, the Las Vegas Street Circuit offers a thrilling urban racing experience against the backdrop of the city's iconic landmarks. This newly introduced track is characterized by long, fast straights that wind through the bustling streets, providing adrenaline-pumping moments for drivers and fans alike. ",
+      "blurb": "This track welcomes the glitz and glamour of the entertainment capital, the Las Vegas Street Circuit offers a thrilling urban racing experience against the backdrop of the city's iconic landmarks. This newly introduced track is characterized by long, fast straights that wind through the bustling streets, providing adrenaline-pumping moments for drivers and fans alike. ",
       "source": "",
       "slug": "vegas"
     },
@@ -232,7 +232,7 @@
       "name": "",
       "location": "Austin, Texas",
       "date": "",
-      "blurb": "This modern track in the heart of Texas boasts elevation changes, multiple challenging turns, and a thrilling atmosphere, for the US Grand Prix.",
+      "blurb": "This modern track in the heart of Texas boasts huge elevation changes, multiple challenging turns, and a thrilling atmosphere. Hundreds of thousands of fans from across the country flock to the Circuit of the Americas for a weekend full of racing, music and Texan pride.",
       "source": "",
       "slug": "USA"
     },
@@ -241,7 +241,7 @@
       "name": "",
       "location": "Sakhir, Bahrain",
       "date": "",
-      "blurb": "A marvel in the desert, the Bahrain International Circuit offers a unique blend of technical challenges and fast-paced racing. The track's layout features a mix of long straights, demanding hairpin turns, and tricky sections.",
+      "blurb": "The Bahrain International Circuit, a marvel of a track, offers a unique blend of technical challenges and fast-paced racing. The track's layout features a mix of long straights, demanding hairpin turns, and tricky sections.",
       "source": "",
       "slug": "bahrain"
     },
@@ -259,16 +259,16 @@
       "name": "",
       "location": "Miami, Florida",
       "date": "",
-      "blurb": "The Miami Autodrome made a thrilling addition to the Formula 1 roster and is a testament to the sport's growing American audience. This track, set in the vibrant city of Miami, embraces a blend of high-speed straights and technical corners designed to challenge the world's finest drivers. ",
+      "blurb": "The Miami Autodrome made a thrilling addition to the Formula 1 roster recently, and it is a testament to the sport's growing American audience. This track, set in the vibrant city of Miami, Florida, embraces a blend of high-speed straights and technical corners designed to challenge the world's finest drivers. ",
       "source": "",
       "slug": "miami"
     },
     {
       "circuit_name": "Losail International Circuit",
-      "name": "Circuit Gilles Villeneuve",
+      "name": "",
       "location": "Losail, Qatar",
       "date": "",
-      "blurb": "Born to host high-speed thrills, the Losail International Circuit, conceived in a whirlwind to accommodate Qatar's inaugural MotoGP in 2004, has since evolved to embrace the pinnacle of motorsport, welcoming its maiden Formula 1 Grand Prix in 2021. ",
+      "blurb": "The Losail International Circuit, conceived in a whirlwind to accommodate Qatar's inaugural MotoGP in 2004, was born to host high-speed thrills. It has since evolved to embrace the pinnacle of motorsport, welcoming its maiden Formula 1 Grand Prix in 2021. ",
       "source": "",
       "slug": "qatar"
     },
@@ -286,7 +286,7 @@
       "name": "",
       "location": "Baku, Azerbaijan",
       "date": "",
-      "blurb": "Renowned for its long straight and tight, narrow sections through the city streets, making it a high-speed challenge.",
+      "blurb": "The Baky city circuit in Azerbaijan is renowned for its long straight and tight, narrow sections through the city streets, making it a high-speed challenge.",
       "source": "",
       "slug": "baku"
     },
@@ -313,7 +313,7 @@
       "name": "",
       "location": "Mogyoród, Hungary",
       "date": "",
-      "blurb": "A twisty, technical track with limited overtaking chances, testing driver skills on tight corners and short straights.",
+      "blurb": "The Hungaroring is a twisty, technical track with limited overtaking chances, testing driver skills on tight corners and short straights.",
       "source": "",
       "slug": "hungary"
     },
@@ -322,7 +322,7 @@
       "name": "",
       "location": "Montreal, Canada",
       "date": "",
-      "blurb": "",
+      "blurb": "The Circuit Gilles Villeneuve in Montreal, Canada, is an exhilarating track renowned for its demanding yet thrilling layout, with its iconic hairpin turn. Its combination of fast straights and tight corners puts drivers to the test and pushes their cars to the limits.",
       "source": "",
       "slug": "canada"
     },
@@ -331,7 +331,7 @@
       "name": "",
       "location": "São Paulo, Brazil",
       "date": "",
-      "blurb": "",
+      "blurb": "São Paulo's Interlagos Circuit stands as a thrilling F1 track in Brazil. Its layout presents a captivating blend of high-speed straights and demanding corners. The Senna 'S' curves challenge drivers at the start, demanding precision and finesse.",
       "source": "",
       "slug": "brazil"
     },
@@ -340,7 +340,7 @@
       "name": "",
       "location": "Spielberg, Austria",
       "date": "",
-      "blurb": "",
+      "blurb": "The \"Red Bull Ring\" in is a picturesque and compact circuit that offers a unique racing experience. The track is nestled amidst the stunning Styrian mountains, and boasts a relatively short layout with rapid elevation changes and challenging corners.",
       "source": "",
       "slug": "austria"
     },
@@ -349,7 +349,7 @@
       "name": "",
       "location": "Mexico City, Mexico",
       "date": "",
-      "blurb": "",
+      "blurb": "At just over 4.3 kilometers in length, this circuit is situated at high altitude, which affects both the cars' performance and the drivers' physical capabilities. The track features a long main straight, allowing for blistering speeds as cars approach the challenging first corner, the famous Peraltada.",
       "source": "",
       "slug": "mexico"
     },
@@ -358,7 +358,7 @@
       "name": "",
       "location": "Zandvoort, Netherlands",
       "date": "",
-      "blurb": "A classic track revived for F1, featuring banked corners and elevation changes, offering a challenging, fast-paced race.",
+      "blurb": "Spanning approximately 4.3 kilometers, Zandvoort features a mix of fast, sweeping sections and tight, technical corners. The track begins with the high-speed Tarzanbocht, a sharp hairpin turn that often sets the stage for overtaking maneuvers at the end of the main straight.",
       "source": "",
       "slug": "netherlands"
     },
@@ -367,7 +367,7 @@
       "name": "",
       "location": "Monza, Italy",
       "date": "",
-      "blurb": "",
+      "blurb": "Monza, the 'Temple of Speed', is an iconic and legendary track located near Milan, Italy. It stands as one of the oldest and most revered circuits in the world of motorsport. Spanning around 5.8 kilometers, Monza is renowned for its blistering straights and historic significance. ",
       "source": "",
       "slug": "monza"
     },
@@ -394,7 +394,7 @@
       "name": "",
       "location": "Abu Dhabi, United Arab Emirates",
       "date": "",
-      "blurb": "Known for its twilight race, it features tight corners and long straights, including the iconic backdrop of the Yas Hotel.",
+      "blurb": "The Yas Marina Circuit, which has served as a dazzling conclusion to recent Formula1 seasons, is known for its epic twilight race. The track features tight corners and long straights, and it includes the backdrop of the Yas Hotel. It's served as the final stretch for drivers and constructors aching to etch out a few more points in the championship standings,",
       "source": "",
       "slug": "UAE"
     }

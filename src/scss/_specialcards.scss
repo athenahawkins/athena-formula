@@ -1,6 +1,6 @@
 /* special styles for cards */
 
-.driver-card, .team-card{
+.driver-card, .team-card{ // these are the styles that apply to both my driver and team cards
   text-align: center;
   box-shadow: 0 4px 8px 0 rgba(0,0,0,0.2);
   background-color: white;
@@ -45,16 +45,16 @@
     color: white;
 }
 
-  i {
+  i { // this is how I style the icons
     font-size: 25px;
-    color: black;
+    color: black; 
     }
 }
 
 .circuit-card {
   padding: 10px;
   text-align: center;
-  box-shadow: 0 4px 8px 0 rgba(0,0,0,0.2);
+  box-shadow: 0 4px 8px 0 rgba(0,0,0,0.2); // adds a cool shadow effect to the card itself
 
   img {
     width: 100%;
@@ -73,4 +73,23 @@
     margin-bottom: 0;
     color: black;
   }
+}
+
+.circuit-stats-card {
+  background-color: blue;
+  padding: 10px;
+  margin-bottom: 10px;
+  text-align: center;
+  box-shadow: 0 4px 8px 0 rgba(0,0,0,0.2); // adds a cool shadow effect
+
+  h3 {
+    font-size: 1.5rem;
+    color: white;
+}
+
+  p {
+    font-size: 20px;
+    color: white;
+    margin-bottom: 0; // Removes the bottom margin of the card to make it prettier
+}
 }
