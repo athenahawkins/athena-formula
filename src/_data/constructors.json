@@ -7,7 +7,7 @@
       "constructorId": "red_bull",
       "team_name": "Red Bull",
       "drivers": "Max Verstappen & Sergio Perez",
-      "blurb": "Founded in 2005 and helmed by Christian Horner, Red Bull Racing has been a relentless force in Formula 1. Racing under an Austrian license but rooted in the UK, it stands as a pivotal part of Red Bull GmbH alongside Scuderia AlphaTauri. From Cosworth and Ferrari to a fruitful alliance with Renault, the team's pinnacle arrived from 2010 to 2013, clinching four consecutive Drivers' and Constructors' Championships, marking them as the first Austrian team to achieve such a feat.",
+      "blurb": "Founded in 2005 and helmed by Christian Horner, Red Bull Racing is a relentless force in Formula1. Racing under an Austrian license but rooted in the UK, the team is a pivotal part of F1's future. From 2010 to 2013, the team clinched four consecutive Drivers' and Constructors' Championships, marking them as the first Austrian team to achieve such a feat. Red Bull is the most recent Constructur's Champion, and in 2023 the car they created was the most dominant on the grid by all accounts. ",
       "source": "https://www.redbullracing.com/int-en",
       "img": "redbull.jpg",
       "slug": "redbull"
@@ -31,7 +31,7 @@
       "constructorId": "ferrari",
       "team_name": "Ferrari",
       "drivers": "Charles Leclerc & Carlos Sainz",
-      "blurb": "Embodying the essence of motorsport passion and pedigree, the Scuderia Ferrari Formula One Team stands as an indelible icon in racing history. With a legacy spanning decades, Ferrari has become synonymous with Formula 1, crafting a narrative of relentless pursuit, innovation, and unrivaled passion for the sport. From the roaring engines of the past to the cutting-edge technology of today, Ferrari's journey through the annals of Formula 1 remains a testament to racing excellence.",
+      "blurb": "Embodying the essence of motorsport passion and pedigree, the Scuderia Ferrari Formula One Team is an indelible icon in racing history. With a legacy spanning decades, Ferrari has become synonymous with Formula 1, crafting a narrative of relentless pursuit, innovation, and unrivaled passion for the sport. From the roaring engines of the past to the cutting-edge technology of today, Ferrari's journey through the annals of Formula 1 remains a testament to racing excellence.",
       "source": "https://www.ferrari.com/en-EN/formula1",
       "img": "ferrari.jpg",
       "slug": "ferrari"
@@ -67,7 +67,7 @@
       "constructorId": "alpine",
       "team_name": "Alpine",
       "drivers": "Esteban Ocon & Pierre Gasly",
-      "blurb": "Alpine, a French racing team in Formula One, has roots dating back to the foundation of the Alpine brand in the 1950s by Jean Rédélé. While initially focused on rallying and endurance racing, Alpine ventured into Formula One as a constructor and has a rich history intertwined with motorsport. The team, formerly known as Renault, transitioned to the Alpine name in 2021, marking a new chapter while maintaining the Renault Group's heritage. Alpine embodies a blend of French flair and technical expertise, aiming to leverage their racing pedigree and innovative spirit to thrive in the competitive world of Formula One.",
+      "blurb": "Alpine, a French racing team in Formula One, has roots dating back to the foundation of the Alpine brand in the 1950s by Jean Rédélé. While initially focused on rallying and endurance racing, Alpine ventured into Formula One as a constructor and has a rich history intertwined with motorsport. The team, formerly known as Renault, transitioned to the Alpine name in 2021, marking a new chapter while maintaining the Renault Group's heritage. Alpine embodies a blend of French flair and technical expertise, aiming to leverage their racing pedigree and innovative spirit to thrive in Formula1.",
       "source": "https://www.alpine-cars.co.uk/formula-1/f1-team.html",
       "img": "alpine.jpg",
       "slug": "alpine"
@@ -91,7 +91,7 @@
       "constructorId": "alphatauri",
       "team_name": "Alpha Tauri",
       "drivers": "Yuki Tsunoda & Daniel Ricciardo",
-      "blurb": "AlphaTauri, formerly known as Toro Rosso, has carved its niche as an integral part of Formula 1's landscape. As the sister team to Red Bull Racing, it plays a crucial role in the Red Bull development track, showcasing a fusion of ambition, technological innovation, and nurturing emerging talent. Evolving from its origins, the team stands as a testament to perseverance, adaptability, and a relentless pursuit of success on the track. With a history rooted in the sport's competitive spirit, AlphaTauri embodies a commitment to fostering a legacy of spirited racing, cementing its position as a pivotal entity in the Formula 1 fraternity.",
+      "blurb": "AlphaTauri, formerly known as Toro Rosso, has carved its niche as an integral part of Formula 1's landscape. As the sister team to Red Bull Racing, it plays a crucial role in the Red Bull development track, showcasing a fusion of ambition, technological innovation, and nurturing emerging talent. The team stands as a testament to perseverance, adaptability, and a relentless pursuit of success on the track, with a history rooted in the sport's competitive spirit.",
       "source": "https://scuderia.alphatauri.com/en/scuderia-alphatauri-f1-team/",
       "img": "alphatauri.jpg",
       "slug": "alphatauri"
@@ -103,7 +103,7 @@
       "constructorId": "alfa",
       "team_name": "Alfa Romeo",
       "drivers": "Valterri Bottas & Zhou Guanyu",
-      "blurb": "Alfa Romeo Racing ORLEN, a distinguished name in Formula 1, boasts a rich history intertwined with the sport's evolution. Established as a pillar of motorsport, the team's legacy spans decades, embodying a blend of tradition, innovation, and unwavering dedication to racing excellence. From its early days to the present, Alfa Romeo Racing ORLEN has remained a formidable presence on the grid, showcasing resilience and a commitment to pushing the boundaries of technology and performance in the ever-evolving world of Formula 1.",
+      "blurb": "Alfa Romeo Racing, a distinguished name in Formula 1, boasts a rich history intertwined with the sport's evolution. The team's legacy spans decades, embodying a blend of tradition, innovation, and unwavering dedication to racing excellence. Although considered a midfield team at present, Alfa Romeo Racing has remained an unwavering presence on the grid, showcasing resilience and a commitment to pushing the boundaries of technology and performance in the ever-evolving world of Formula 1.",
       "source": "https://www.sauber-group.com/motorsport/formula-1/",
       "img": "alfaromeo.jpg",
       "slug": "alfaromeo"
@@ -115,7 +115,7 @@
       "constructorId": "haas",
       "team_name": "Haas",
       "drivers": "Kevin Magnussen & Nico Hulkenberg",
-      "blurb": "Haas F1 Team entered Formula One in 2016, founded by Gene Haas, a successful American businessman and the founder of Haas Automation. The team made a notable impact, bringing an American presence back to the pinnacle of motorsport after a long absence. While their early years showed promise with solid performances, Haas faced various challenges in the intensely competitive field. The team's commitment to growing and learning in F1 reflects their ambition to establish a strong foothold and compete at the highest level of international racing.",
+      "blurb": "Haas F1 Team entered Formula One in 2016, founded by Gene Haas, a successful American businessman and the founder of Haas Automation. The team made a notable impact by bringing an American presence back to F1 after a long absence, along with a dedicated fanbase. While their early years showed promise with solid performances, Haas faced various challenges in the intensely competitive field. The team's commitment to growing and learning in F1 reflects their ambition to establish a strong foothold and remain competitive.",
       "source": "https://www.haasf1team.com/",
       "img": "haas.jpg",
       "slug": "haas"
@@ -135,7 +135,7 @@
       "constructorId": "red_bull",
       "team_name": "Red Bull",
       "drivers": "Max Verstappen & Sergio Perez",
-      "blurb": "Founded in 2005 and helmed by Christian Horner, Red Bull Racing has been a relentless force in Formula 1. Racing under an Austrian license but rooted in the UK, it stands as a pivotal part of Red Bull GmbH alongside Scuderia AlphaTauri. From Cosworth and Ferrari to a fruitful alliance with Renault, the team's pinnacle arrived from 2010 to 2013, clinching four consecutive Drivers' and Constructors' Championships, marking them as the first Austrian team to achieve such a feat.",
+      "blurb": "Founded in 2005 and helmed by Christian Horner, Red Bull Racing is a relentless force in Formula1. Racing under an Austrian license but rooted in the UK, the team is a pivotal part of F1's future. From 2010 to 2013, the team clinched four consecutive Drivers' and Constructors' Championships, marking them as the first Austrian team to achieve such a feat. Red Bull is the most recent Constructur's Champion, and in 2023 the car they created was the most dominant on the grid by all accounts. ",
       "source": "https://www.redbullracing.com/int-en",
       "img": "redbull.jpg",
       "slug": "redbull"
@@ -144,7 +144,7 @@
       "constructorId": "ferrari",
       "team_name": "Ferrari",
       "drivers": "Charles Leclerc & Carlos Sainz",
-      "blurb": "Embodying the essence of motorsport passion and pedigree, the Scuderia Ferrari Formula One Team stands as an indelible icon in racing history. With a legacy spanning decades, Ferrari has become synonymous with Formula 1, crafting a narrative of relentless pursuit, innovation, and unrivaled passion for the sport. From the roaring engines of the past to the cutting-edge technology of today, Ferrari's journey through the annals of Formula 1 remains a testament to racing excellence.",
+      "blurb": "Embodying the essence of motorsport passion and pedigree, the Scuderia Ferrari Formula One Team is an indelible icon in racing history. With a legacy spanning decades, Ferrari has become synonymous with Formula 1, crafting a narrative of relentless pursuit, innovation, and unrivaled passion for the sport. From the roaring engines of the past to the cutting-edge technology of today, Ferrari's journey through the annals of Formula 1 remains a testament to racing excellence.",
       "source": "https://www.ferrari.com/en-EN/formula1",
       "img": "ferrari.jpg",
       "slug": "ferrari"
@@ -153,7 +153,7 @@
       "constructorId": "alfa",
       "team_name": "Alfa Romeo",
       "drivers": "Valterri Bottas & Zhou Guanyu",
-      "blurb": "Alfa Romeo Racing ORLEN, a distinguished name in Formula 1, boasts a rich history intertwined with the sport's evolution. Established as a pillar of motorsport, the team's legacy spans decades, embodying a blend of tradition, innovation, and unwavering dedication to racing excellence. From its early days to the present, Alfa Romeo Racing ORLEN has remained a formidable presence on the grid, showcasing resilience and a commitment to pushing the boundaries of technology and performance in the ever-evolving world of Formula 1.",
+      "blurb": "Alfa Romeo Racing, a distinguished name in Formula 1, boasts a rich history intertwined with the sport's evolution. The team's legacy spans decades, embodying a blend of tradition, innovation, and unwavering dedication to racing excellence. Although considered a midfield team at present, Alfa Romeo Racing has remained an unwavering presence on the grid, showcasing resilience and a commitment to pushing the boundaries of technology and performance in the ever-evolving world of Formula 1.",
       "source": "https://www.sauber-group.com/motorsport/formula-1/",
       "img": "alfaromeo.jpg",
       "slug": "alfaromeo"
@@ -162,7 +162,7 @@
       "constructorId": "alphatauri",
       "team_name": "Alpha Tauri",
       "drivers": "Yuki Tsunoda & Daniel Ricciardo",
-      "blurb": "AlphaTauri, formerly known as Toro Rosso, has carved its niche as an integral part of Formula 1's landscape. As the sister team to Red Bull Racing, it plays a crucial role in the Red Bull development track, showcasing a fusion of ambition, technological innovation, and nurturing emerging talent. Evolving from its origins, the team stands as a testament to perseverance, adaptability, and a relentless pursuit of success on the track. With a history rooted in the sport's competitive spirit, AlphaTauri embodies a commitment to fostering a legacy of spirited racing, cementing its position as a pivotal entity in the Formula 1 fraternity.",
+      "blurb": "AlphaTauri, formerly known as Toro Rosso, has carved its niche as an integral part of Formula 1's landscape. As the sister team to Red Bull Racing, it plays a crucial role in the Red Bull development track, showcasing a fusion of ambition, technological innovation, and nurturing emerging talent. The team stands as a testament to perseverance, adaptability, and a relentless pursuit of success on the track, with a history rooted in the sport's competitive spirit.",
       "source": "https://scuderia.alphatauri.com/en/scuderia-alphatauri-f1-team/",
       "img": "alphatauri.jpg",
       "slug": "alphatauri"
@@ -180,7 +180,7 @@
       "constructorId": "haas",
       "team_name": "Haas",
       "drivers": "Kevin Magnussen & Nico Hulkenberg",
-      "blurb": "Haas F1 Team entered Formula One in 2016, founded by Gene Haas, a successful American businessman and the founder of Haas Automation. The team made a notable impact, bringing an American presence back to the pinnacle of motorsport after a long absence. While their early years showed promise with solid performances, Haas faced various challenges in the intensely competitive field. The team's commitment to growing and learning in F1 reflects their ambition to establish a strong foothold and compete at the highest level of international racing.",
+      "blurb": "Haas F1 Team entered Formula One in 2016, founded by Gene Haas, a successful American businessman and the founder of Haas Automation. The team made a notable impact by bringing an American presence back to F1 after a long absence, along with a dedicated fanbase. While their early years showed promise with solid performances, Haas faced various challenges in the intensely competitive field. The team's commitment to growing and learning in F1 reflects their ambition to establish a strong foothold and remain competitive.",
       "source": "https://www.haasf1team.com/",
       "img": "haas.jpg",
       "slug": "haas"
@@ -207,7 +207,7 @@
       "constructorId": "alpine",
       "team_name": "Alpine",
       "drivers": "Esteban Ocon & Pierre Gasly",
-      "blurb": "Alpine, a French racing team in Formula One, has roots dating back to the foundation of the Alpine brand in the 1950s by Jean Rédélé. While initially focused on rallying and endurance racing, Alpine ventured into Formula One as a constructor and has a rich history intertwined with motorsport. The team, formerly known as Renault, transitioned to the Alpine name in 2021, marking a new chapter while maintaining the Renault Group's heritage. Alpine embodies a blend of French flair and technical expertise, aiming to leverage their racing pedigree and innovative spirit to thrive in the competitive world of Formula One.",
+      "blurb": "Alpine, a French racing team in Formula One, has roots dating back to the foundation of the Alpine brand in the 1950s by Jean Rédélé. While initially focused on rallying and endurance racing, Alpine ventured into Formula One as a constructor and has a rich history intertwined with motorsport. The team, formerly known as Renault, transitioned to the Alpine name in 2021, marking a new chapter while maintaining the Renault Group's heritage. Alpine embodies a blend of French flair and technical expertise, aiming to leverage their racing pedigree and innovative spirit to thrive in Formula1.",
       "source": "https://www.alpine-cars.co.uk/formula-1/f1-team.html",
       "img": "alpine.jpg",
       "slug": "alpine"

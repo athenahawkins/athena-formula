@@ -7,7 +7,7 @@
       "driverId": "max_verstappen",
       "driver_name": "Max Verstappen",
       "team": "Red Bull Racing",
-      "blurb": "He’s Max by name, and max by nature. Arriving as Formula 1’s youngest ever competitor at just 17 years old, Verstappen pushed his car, his rivals and the sport’s record books to the limit. The baby-faced Dutchman with the heart of a lion took the Toro Rosso – and then the Red Bull – by the horns with his instinctive racing style. F1’s youngest points scorer soon became its youngest race winner – at the age of 18 years and 228 days – with an opportunistic but controlled drive on debut for Red Bull in Barcelona 2016. A true wheel-to-wheel racer, another stunning drive in Brazil from the back of the pack to the podium on a treacherous wet track kept the plaudits coming.",
+      "blurb": "He’s Max by name, and max by nature. Arriving as Formula1’s youngest ever competitor at just 17 years old, Verstappen pushed his car, his rivals and the sport’s record books to the limit. The Dutchman took the Toro Rosso – and then the Red Bull – by the horns with his instinctive racing style. F1’s youngest points scorer soon became its youngest race winner – at the age of 18 years and 228 days – with an opportunistic but controlled drive on debut for Red Bull in Barcelona 2016. He currently holds the record for most points scored in a season.",
       "source": "https://www.formula1.com/en/drivers/max-verstappen.html",
       "img": "max.jpg",
       "slug": "max"
@@ -31,7 +31,7 @@
       "driverId": "hamilton",
       "driver_name": "Lewis Hamilton",
       "team": "Mercedes",
-      "blurb": "Lewis Hamilton, a British racing sensation, burst onto the Formula 1 stage in 2007, showcasing his immense talent with McLaren before his move to Mercedes. A seven-time World Champion, Hamilton's journey is a testament to his unparalleled skill, strategic brilliance, and relentless pursuit of excellence. His dominance on the grid has solidified his legacy as one of the sport's most decorated and influential drivers, setting records and shaping Formula 1 history.",
+      "blurb": "Seven-time World Driver's Champion Lewis Hamilton, a British racing sensation, debuted with McLaren in 2007 before his move to Mercedes. Hamilton's journey is a testament to his unparalleled skill, strategic brilliance, and relentless pursuit of excellence. His dominance on the grid has solidified his legacy as one of the sport's most decorated and influential drivers, setting records and shaping Formula 1 history.",
       "source": "",
       "img": "lewis.jpg",
       "slug": "lewis"
@@ -55,7 +55,7 @@
       "driverId": "leclerc",
       "driver_name": "Charles Leclerc",
       "team": "Ferrari",
-      "blurb": "Charles Leclerc, a Monegasque prodigy, entered Formula 1 in 2018, swiftly making an impact with Sauber before his promotion to Ferrari. His rise through the ranks, marked by raw talent and determination, positioned him as a promising force on the grid. Establishing himself at Scuderia Ferrari, Leclerc's skillful drives and consistent performances have elevated him to a pivotal role within the team, showcasing his potential as a future champion.",
+      "blurb": "Monegasque prodigy Charles Leclerc entered Formula1 in 2018 and debuted with Sauber before his promotion to Ferrari. His rise through the ranks, marked by raw talent and determination, positioned him as a promising force on the grid. At Scuderia Ferrari, Leclerc's fortitude and consistent speed confirm his potential as a future champion.",
       "source": "",
       "img": "charles.jpg",
       "slug": "charles"
@@ -67,7 +67,7 @@
       "driverId": "norris",
       "driver_name": "Lando Norris",
       "team": "McLaren",
-      "blurb": "Lando Norris, the vibrant and talented British driver, has etched his mark on Formula 1 with a blend of youthful exuberance and remarkable skill. Rising through the ranks, Norris made his Formula 1 debut with McLaren in 2019, showcasing exceptional promise from the onset. Known for his infectious personality and impressive racing acumen, Norris swiftly earned respect as a fierce competitor on the grid. His consistent performances and ability to extract the maximum from his machinery have established him as a mainstay in the sport. With podium finishes and standout drives, Norris continues to captivate audiences and solidify his status as one of the rising stars in Formula 1.",
+      "blurb": "Young British driver Lando Norris displayed vibrance and talent from the moment he debuted with McLaren in 2019. Known for his infectious personality and impressive racing acumen, Norris swiftly earned respect as a fierce competitor on the grid. With several podium finishes and standout drives, Norris continues to captivate audiences and solidify his status as one of the rising stars in Formula 1.",
       "source": "",
       "img": "lando.jpg",
       "slug": "lando"
@@ -79,7 +79,7 @@
       "driverId": "sainz",
       "driver_name": "Carlos Sainz",
       "team": "Ferrari",
-      "blurb": "Carlos Sainz, a Spanish racing sensation, burst onto the Formula 1 scene, showcasing his talent in 2015. Following in the footsteps of his rallying champion father, Sainz carved his path with Toro Rosso before moving to Renault and then McLaren. His transition to Scuderia Ferrari in 2021 marked a new chapter, where his tenacity and consistency led to podium finishes and established him as a vital asset alongside Charles Leclerc.\n\n",
+      "blurb": "Carlos Sainz, a \"smooth operator\" and Spanish racer, burst onto the Formula 1 scene in 2015. Following in the footsteps of his rallying champion father, Sainz carved his path with Toro Rosso before moving to Renault and then McLaren. His transition to Scuderia Ferrari in 2021 marked a new chapter, where his tenacity and consistency led to podium finishes. In 2023, he was the only non-Red Bull driver to score a victory.\n\n",
       "source": "",
       "img": "carlos.jpg",
       "slug": "carlos"
@@ -91,7 +91,7 @@
       "driverId": "russell",
       "driver_name": "George Russell",
       "team": "Mercedes",
-      "blurb": "George Russell, a British rising star, embarked on his Formula 1 journey in 2019 with Williams, showcasing exceptional talent and determination. His standout performances amidst challenging circumstances caught the attention of Mercedes, leading to his opportunity to compete alongside seven-time World Champion Lewis Hamilton. Russell's tenure with Mercedes demonstrated his skill and adaptability, proving his worth on the grid. His trajectory reflects resilience and promise, positioning him as a compelling contender for success in Formula 1's competitive landscape.",
+      "blurb": "George Russell, a rising British star, embarked on his Formula 1 journey in 2019 with Williams, showcasing exceptional talent and determination. His standout performances amidst challenging circumstances caught the attention of Mercedes, leading to his opportunity to compete alongside seven-time World Champion Lewis Hamilton. Russell's tenure with Mercedes demonstrated his skill and adaptability, proving his worth on the grid. His trajectory reflects resilience and promise, positioning him as a compelling contender for success in Formula 1's competitive landscape.",
       "source": "",
       "img": "george.jpg",
       "slug": "george"
@@ -103,7 +103,7 @@
       "driverId": "piastri",
       "driver_name": "Oscar Piastri",
       "team": "McLaren",
-      "blurb": "Oscar Piastri, the talented Australian rookie, burst onto the Formula 1 scene this season with McLaren, marking his debut in the pinnacle of motorsport. Despite it being his rookie year, Piastri wasted no time in making an impact, showcasing his racing prowess and adaptability on the grid. His victory in a thrilling sprint race underscored his innate talent and determination. Known for his measured approach and remarkable maturity behind the wheel, Piastri's seamless transition to Formula 1 and impressive performances have turned heads in the paddock. As he navigates his maiden season, Piastri's promising start at McLaren hints at a bright future ahead, positioning him as a rising star in the competitive world of Formula 1.",
+      "blurb": "Oscar Piastri, the highly-anticipated and talented Australian rookie, joined the grid with McLaren in 2023. Despite it being his rookie year, Piastri wasted no time in making an impact, showcasing his racing prowess and adaptability. His victory in a thrilling sprint race underscored his innate talent and determination. Known for his measured approach and remarkable maturity behind the wheel, Piastri's seamless transition to Formula 1 and impressive performances have turned heads in the paddock. ",
       "source": "",
       "img": "oscar.jpg",
       "slug": "oscar"
@@ -115,7 +115,7 @@
       "driverId": "stroll",
       "driver_name": "Lance Stroll",
       "team": "Aston Martin",
-      "blurb": "Lance Stroll, a Canadian driver, debuted in Formula 1 in 2017, showcasing promise and skill with Williams before joining Racing Point, now known as Aston Martin. Notably, Stroll's connection extends beyond the cockpit as his father, Lawrence Stroll, holds a prominent role in the leadership of Aston Martin. Lance's journey in Formula 1 reflects his growth and adaptability on the grid. His tenure at Aston Martin represents a significant chapter in his career, where his consistent performances and alignment with the team's vision, guided in part by his father's leadership, contribute to the team's ambitions in Formula 1.\n\n",
+      "blurb": "Lance Stroll, a Canadian driver, debuted in Formula1 in 2017 with Williams before joining Racing Point, now as Aston Martin. Stroll's connection extends beyond the cockpit as his father, Lawrence Stroll, holds a prominent role in the leadership of Aston Martin, but his three podium finishes prove his worth on track alone. Stroll is known for his consistency in the rain, and his early career standout moments have kept his chances for a long-term racing career alive.\n\n",
       "source": "",
       "img": "lance.jpg",
       "slug": "lance"
@@ -127,7 +127,7 @@
       "driverId": "gasly",
       "driver_name": "Pierre Gasly",
       "team": "Alpine",
-      "blurb": "Pierre Gasly, a French driver, debuted in Formula 1 in 2017, showcasing his talent and determination with Toro Rosso, now known as AlphaTauri. After a stint at Red Bull Racing and subsequent return to AlphaTauri, Gasly made a pivotal move to Alpine in 2023. His transition to Alpine marks a new chapter in his career, where his consistent performances and resilience on the track continue to make an impact. Gasly's experience and potential contributions position him as a valuable addition to Alpine, as the team aims for progress and success in Formula 1.",
+      "blurb": "Pierre Gasly, a French driver, debuted in Formula 1 in 2017, showcasing his talent and determination with Toro Rosso, now known as AlphaTauri. After a stint at Red Bull Racing and subsequent return to AlphaTauri, Gasly made a pivotal move to Alpine in 2023. His transition to Alpine marks a new chapter in his career, where his consistency on the track continue to make him a dependable driver and teammate. ",
       "source": "",
       "img": "pierre.jpg",
       "slug": "pierre"
@@ -139,7 +139,7 @@
       "driverId": "ocon",
       "driver_name": "Esteban Ocon",
       "team": "Alpine",
-      "blurb": "Esteban Ocon, a French driver, made his Formula 1 debut in 2016, showcasing promise and skill with Manor Racing and Force India. His journey through various teams highlighted his adaptability and determination, particularly during his time at Renault and now Alpine. Ocon's tenure at Alpine has seen him steadily evolve into a consistent performer, demonstrating resilience and growth on the grid. His contributions to Alpine's development mark him as a vital asset, playing a key role in the team's ambitions and setting the stage for further success in Formula 1.",
+      "blurb": "The Frenchman Esteban Ocon made his Formula1 debut in 2016 with Manor Racing and Force India. His journey through various teams highlighted his adaptability, particularly during his time Renault — now Alpine. Ocon's tenure at Alpine has seen him steadily evolve into a consistent performer, demonstrating resilience and growth on the grid. His contributions to Alpine's development mark him as a vital asset, playing a key role in the team's ambitions.",
       "source": "",
       "img": "esteban.jpg",
       "slug": "esteban"
@@ -151,7 +151,7 @@
       "driverId": "albon",
       "driver_name": "Alex Albon",
       "team": "Williams",
-      "blurb": "Alex Albon, a Thai-British driver, entered Formula 1 in 2019 with Toro Rosso, showcasing glimpses of his talent and potential. His tenure at Red Bull Racing, while brief, displayed flashes of brilliance alongside teammate Max Verstappen. Moving to Williams Racing, Albon's consistent performances have notably surpassed the car's expectations, signaling the team's upward trajectory. Albon's resilience and adaptability on the grid illustrate his capacity to extract the maximum from his machinery, positioning him as a key asset in Williams' pursuit of success.\n\n",
+      "blurb": "Alex Albon, a Thai-British driver, entered Formula 1 in 2019 with Toro Rosso before his brief tenure at Red Bull Racing. Although his time was cut short, the driver gave a few impressive performances alongside the dominant Max Verstappen. Moving to Williams Racing, Albon's consistent performances have notably surpassed the car's expectations, signaling the team's upward trajectory. Albon's resilience and adaptability on the grid illustrate his capacity to extract the maximum from his machinery, positioning him as a key asset in Williams' pursuit of success.\n\n",
       "source": "",
       "img": "alex.jpg",
       "slug": "alex"
@@ -163,7 +163,7 @@
       "driverId": "tsunoda",
       "driver_name": "Yuki Tsunoda",
       "team": "Alpha Tauri",
-      "blurb": "Yuki Tsunoda, the vibrant Japanese sensation, stormed into Formula 1 with a spirited debut at just 20 years old, instantly leaving an indelible mark. Fearless and fiercely competitive, Tsunoda's arrival at AlphaTauri heralded a new era, showcasing his innate talent and unwavering determination. With a flair for daring maneuvers and a racing instinct that belies his age, Tsunoda swiftly etched his name in the sport's annals. His ascent from Formula 3 to Formula 1 was meteoric, and his breakthrough drive at Bahrain in 2021, securing points in his debut race, set the stage for a season of thrilling wheel-to-wheel battles and standout performances, establishing him as a force to be reckoned with in the high-octane world of Formula 1.",
+      "blurb": "Yuki Tsunoda, the vibrant Japanese sensation, made a spirited debut at just 20 years old with AlphaTauri. With a flair for daring maneuvers and a racing instinct that belies his age, Tsunoda swiftly etched his name in the sport's annals and quickly became a fan favorite. His ascent from Formula 3 to Formula 1 was meteoric, and his breakthrough drive at Bahrain in 2021, securing points in his debut race, set the stage for a season of thrilling wheel-to-wheel battles and standout performances.",
       "source": "",
       "img": "yuki.jpg",
       "slug": "yuki"
@@ -175,7 +175,7 @@
       "driverId": "bottas",
       "driver_name": "Valterri Bottas",
       "team": "Alfa Romeo",
-      "blurb": "Valtteri Bottas, a Finnish driver, entered Formula 1 in 2013, showcasing his talents and racing prowess with Williams before joining Mercedes, a team he competed with for several successful seasons. Bottas, known for his consistency and teamwork, contributed significantly to Mercedes' dominance during his tenure. His move to Alfa Romeo Racing ORLEN marks a new chapter in his career, where his experience and dedication continue to make an impact. Bottas' valuable contributions on and off the track position him as a key driver for Alfa Romeo Racing ORLEN, as the team aims for progression and success in Formula 1.",
+      "blurb": "Valtteri Bottas, a proud Finnish driver, entered Formula1 in 2013 with Williams before joining the dominant Mercedes, a team he competed with for several successful seasons. Bottas, known for his consistency and teamwork, upheld Mercedes' dominance during his tenure and his teammate Hamilton's record-breaking World Driver's Championship run. His move to Alfa Romeo Racing marked a new chapter in his career, where he showcased experience and dedication . Bottas' valuable contributions on and off the track position him as a key driver for Alfa Romeo Racing as the team aims to work its way up the midfield.",
       "source": "",
       "img": "valterri.jpg",
       "slug": "valterri"
@@ -199,7 +199,7 @@
       "driverId": "ricciardo",
       "driver_name": "Daniel Ricciardo",
       "team": "Alpha Tauri",
-      "blurb": "Daniel Ricciardo, the seasoned Australian racer known for his infectious smile and daring overtakes, faced a pivotal shift in his Formula 1 journey, transitioning from McLaren to AlphaTauri halfway through the season. Renowned for his bold yet calculated racing style, Ricciardo's arrival at AlphaTauri injected a new energy into the team. With a wealth of experience and a knack for extracting the maximum from his machinery, his mid-season move showcased his adaptability and determination. Embracing the challenge head-on, Ricciardo's seamless integration and flashes of brilliance on the track marked the beginning of a new chapter, underscoring his enduring presence and unwavering passion in the fiercely competitive world of Formula 1.",
+      "blurb": "Daniel Ricciardo, the seasoned Australian racer known for his infectious smile and daring overtakes, faced a pivotal shift in his Formula 1 journey when he lost his seat at McLaren but made a comeback halfway through the 2023 season at AlphaTauri. Renowned for his bold yet calculated racing style, Ricciardo's arrival at AlphaTauri injected a new energy into the team. Embracing the challenge head-on, Ricciardo's seamless integration on the track marked the beginning of a new chapter, underscoring his enduring presence and unwavering passion in the fiercely competitive world of Formula 1.",
       "source": "",
       "img": "daniel.jpg",
       "slug": "daniel"
@@ -211,7 +211,7 @@
       "driverId": "zhou",
       "driver_name": "Zhou Guanyu",
       "team": "Alfa Romeo",
-      "blurb": "Zhou Guanyu, a Chinese driver, made his mark in Formula 1 in 2022, debuting with Alfa Romeo Racing ORLEN. His entry into Formula 1 marked a significant moment as the first full-time Chinese driver in the sport's history. Zhou's arrival brought forth a wave of excitement and anticipation, showcasing his talent and potential. His promising performances and dedication on the track have positioned him as a key asset for Alfa Romeo Racing ORLEN, marking a new era in Chinese representation within Formula 1 and igniting hopes for a successful future in the sport.",
+      "blurb": "Zhou Guanyu, a Chinese driver, made his mark in Formula1 in 2022 and stands as a symbol of international interest and representation in the sport. His entry into Formula 1 marked a significant moment as the first full-time Chinese driver in the sport's history. Zhou's arrival brought forth a wave of excitement and anticipation, showcasing his talent and potential. His promising performances and dedication on the track have positioned him as a key asset for Alfa Romeo Racing.",
       "source": "",
       "img": "zhou.jpg",
       "slug": "zhou"
@@ -235,7 +235,7 @@
       "driverId": "lawson",
       "driver_name": "Liam Lawson",
       "team": "Alpha Tauri",
-      "blurb": "Liam Lawson, the burgeoning talent from New Zealand, made a noteworthy mark in Formula 1 this year, stepping into the AlphaTauri seat during Daniel Ricciardo's absence and impressing with his solid performances. Lawson's journey in motorsport has been marked by his tenacity and natural racing instincts. With an opportunity to showcase his skills at the highest level, Lawson displayed maturity and composure beyond his years, delivering commendable performances on the track. His adaptability and ability to quickly acclimate to the demands of Formula 1 affirmed his potential as a future force in the sport. Lawson's brief yet impactful stint at AlphaTauri underscored his capabilities, hinting at a promising career trajectory in Formula 1.",
+      "blurb": "Liam Lawson, the burgeoning talent from New Zealand, made a noteworthy mark in Formula 1 this year, stepping into the AlphaTauri seat during Daniel Ricciardo's injury and impressing with his solid performances. With an opportunity to showcase his skills at the highest level, Lawson delivered commendable, suprising performances on the track. His adaptability and ability to quickly acclimate to the demands of Formula 1 affirmed his potential as a future force in the sport. ",
       "source": "",
       "img": "lawson.jpg",
       "slug": "lawson"
@@ -247,7 +247,7 @@
       "driverId": "sargeant",
       "driver_name": "Logan Sargeant",
       "team": "Williams",
-      "blurb": "Logan Sargeant, a rising American talent, debuted in Formula 1 with Williams this season, showcasing promising performances as a rookie driver. His adaptation to the demands of the sport demonstrated remarkable potential, particularly with standout performances in the latter part of the season. Sargeant's commitment and growth on the grid have earned him an extended stay with Williams, positioning him as a driver with immense promise. As he continues to develop, Sargeant's contributions are poised to further bolster Williams' ambitions, marking an exciting phase for both driver and team in Formula 1.",
+      "blurb": "Logan Sargeant, a rising rookie American talent, debuted in Formula 1 with Williams in 2023. His adaptation to the demands of the sport demonstrated remarkable potential, particularly with standout performances in the latter part of the season. Sargeant's commitment and growth on the grid have earned him an extended stay with Williams. Sargeant's willingness to grow alongside the Williams team mark an exciting phase for both driver and team in Formula1.",
       "source": "",
       "img": "logan.jpg",
       "slug": "logan"
@@ -259,7 +259,7 @@
       "driverId": "de_vries",
       "driver_name": "Nick DeVries",
       "team": "Alpha Tauri",
-      "blurb": "Nick de Vries, the determined Dutch racer, embarked on a momentous journey in Formula 1 this season, gracing the AlphaTauri seat for the first half before making way for Daniel Ricciardo. De Vries, heralded as a rising talent in motorsport, brought his fierce determination and undeniable skill to the Formula 1 grid. His entry into the sport's upper echelons marked a significant milestone in his career. Despite the challenges of adapting to the pinnacle of racing, de Vries showcased glimpses of his potential with gritty performances and flashes of brilliance.",
+      "blurb": "Dutch racer Nick DeVries debuted in Formula1 in the 2023 season, racing in the the AlphaTauri seat for the first half before his replacement by Daniel Ricciardo. DeVries was highly anticipated and heralded as a rising talent in motorsport. His entry into the sport's upper echelons marked a significant milestone in his career. Despite the challenges of adapting to the pinnacle of racing, DeVries showcased glimpses of his potential with gritty performances and flashes of brilliance.",
       "source": "",
       "img": "devries.jpg",
       "slug": "devries"
@@ -270,7 +270,7 @@
       "driverID": "leclerc",
       "driver_name": "Charles Leclerc",
       "team": "Ferrari",
-      "blurb": "Charles Leclerc, a Monegasque prodigy, entered Formula 1 in 2018, swiftly making an impact with Sauber before his promotion to Ferrari. His rise through the ranks, marked by raw talent and determination, positioned him as a promising force on the grid. Establishing himself at Scuderia Ferrari, Leclerc's skillful drives and consistent performances have elevated him to a pivotal role within the team, showcasing his potential as a future champion.",
+      "blurb": "Monegasque prodigy Charles Leclerc entered Formula1 in 2018 and debuted with Sauber before his promotion to Ferrari. His rise through the ranks, marked by raw talent and determination, positioned him as a promising force on the grid. At Scuderia Ferrari, Leclerc's fortitude and consistent speed confirm his potential as a future champion.",
       "source": "https://www.charlesleclerc.com/",
       "img": "charles.jpg",
       "slug": "charles"
@@ -279,7 +279,7 @@
       "driverID": "max_verstappen",
       "driver_name": "Max Verstappen",
       "team": "Red Bull Racing",
-      "blurb": "He’s Max by name, and max by nature. Arriving as Formula 1’s youngest ever competitor at just 17 years old, Verstappen pushed his car, his rivals and the sport’s record books to the limit. The baby-faced Dutchman with the heart of a lion took the Toro Rosso – and then the Red Bull – by the horns with his instinctive racing style. F1’s youngest points scorer soon became its youngest race winner – at the age of 18 years and 228 days – with an opportunistic but controlled drive on debut for Red Bull in Barcelona 2016. A true wheel-to-wheel racer, another stunning drive in Brazil from the back of the pack to the podium on a treacherous wet track kept the plaudits coming.",
+      "blurb": "He’s Max by name, and max by nature. Arriving as Formula1’s youngest ever competitor at just 17 years old, Verstappen pushed his car, his rivals and the sport’s record books to the limit. The Dutchman took the Toro Rosso – and then the Red Bull – by the horns with his instinctive racing style. F1’s youngest points scorer soon became its youngest race winner – at the age of 18 years and 228 days – with an opportunistic but controlled drive on debut for Red Bull in Barcelona 2016. He currently holds the record for most points scored in a season.",
       "source": "https://www.formula1.com/en/drivers/max-verstappen.html",
       "img": "max.jpg",
       "slug": "max"
@@ -297,7 +297,7 @@
       "driverID": "sainz",
       "driver_name": "Carlos Sainz",
       "team": "Ferrari",
-      "blurb": "Carlos Sainz, a Spanish racing sensation, burst onto the Formula 1 scene, showcasing his talent in 2015. Following in the footsteps of his rallying champion father, Sainz carved his path with Toro Rosso before moving to Renault and then McLaren. His transition to Scuderia Ferrari in 2021 marked a new chapter, where his tenacity and consistency led to podium finishes and established him as a vital asset alongside Charles Leclerc.\n\n",
+      "blurb": "Carlos Sainz, a \"smooth operator\" and Spanish racer, burst onto the Formula 1 scene in 2015. Following in the footsteps of his rallying champion father, Sainz carved his path with Toro Rosso before moving to Renault and then McLaren. His transition to Scuderia Ferrari in 2021 marked a new chapter, where his tenacity and consistency led to podium finishes. In 2023, he was the only non-Red Bull driver to score a victory.\n\n",
       "source": "https://www.formula1.com/en/drivers/max-verstappen.html",
       "img": "carlos.jpg",
       "slug": "carlos"
@@ -306,7 +306,7 @@
       "driverID": "russell",
       "driver_name": "George Russell",
       "team": "Mercedes",
-      "blurb": "George Russell, a British rising star, embarked on his Formula 1 journey in 2019 with Williams, showcasing exceptional talent and determination. His standout performances amidst challenging circumstances caught the attention of Mercedes, leading to his opportunity to compete alongside seven-time World Champion Lewis Hamilton. Russell's tenure with Mercedes demonstrated his skill and adaptability, proving his worth on the grid. His trajectory reflects resilience and promise, positioning him as a compelling contender for success in Formula 1's competitive landscape.",
+      "blurb": "George Russell, a rising British star, embarked on his Formula 1 journey in 2019 with Williams, showcasing exceptional talent and determination. His standout performances amidst challenging circumstances caught the attention of Mercedes, leading to his opportunity to compete alongside seven-time World Champion Lewis Hamilton. Russell's tenure with Mercedes demonstrated his skill and adaptability, proving his worth on the grid. His trajectory reflects resilience and promise, positioning him as a compelling contender for success in Formula 1's competitive landscape.",
       "source": "https://www.formula1.com/en/drivers/max-verstappen.html",
       "img": "george.jpg",
       "slug": "george"
@@ -315,7 +315,7 @@
       "driverID": "hamilton",
       "driver_name": "Lewis Hamilton",
       "team": "Mercedes",
-      "blurb": "Lewis Hamilton, a British racing sensation, burst onto the Formula 1 stage in 2007, showcasing his immense talent with McLaren before his move to Mercedes. A seven-time World Champion, Hamilton's journey is a testament to his unparalleled skill, strategic brilliance, and relentless pursuit of excellence. His dominance on the grid has solidified his legacy as one of the sport's most decorated and influential drivers, setting records and shaping Formula 1 history.",
+      "blurb": "Seven-time World Driver's Champion Lewis Hamilton, a British racing sensation, debuted with McLaren in 2007 before his move to Mercedes. Hamilton's journey is a testament to his unparalleled skill, strategic brilliance, and relentless pursuit of excellence. His dominance on the grid has solidified his legacy as one of the sport's most decorated and influential drivers, setting records and shaping Formula 1 history.",
       "source": "https://www.formula1.com/en/drivers/max-verstappen.html",
       "img": "lewis.jpg",
       "slug": "lewis"
@@ -324,7 +324,7 @@
       "driverID": "albon",
       "driver_name": "Alex Albon",
       "team": "Williams",
-      "blurb": "Alex Albon, a Thai-British driver, entered Formula 1 in 2019 with Toro Rosso, showcasing glimpses of his talent and potential. His tenure at Red Bull Racing, while brief, displayed flashes of brilliance alongside teammate Max Verstappen. Moving to Williams Racing, Albon's consistent performances have notably surpassed the car's expectations, signaling the team's upward trajectory. Albon's resilience and adaptability on the grid illustrate his capacity to extract the maximum from his machinery, positioning him as a key asset in Williams' pursuit of success.\n\n",
+      "blurb": "Alex Albon, a Thai-British driver, entered Formula 1 in 2019 with Toro Rosso before his brief tenure at Red Bull Racing. Although his time was cut short, the driver gave a few impressive performances alongside the dominant Max Verstappen. Moving to Williams Racing, Albon's consistent performances have notably surpassed the car's expectations, signaling the team's upward trajectory. Albon's resilience and adaptability on the grid illustrate his capacity to extract the maximum from his machinery, positioning him as a key asset in Williams' pursuit of success.\n\n",
       "source": "https://www.formula1.com/en/drivers/max-verstappen.html",
       "img": "alex.jpg",
       "slug": "alex"
@@ -342,7 +342,7 @@
       "driverID": "sargeant",
       "driver_name": "Logan Sargeant",
       "team": "Williams",
-      "blurb": "Logan Sargeant, a rising American talent, debuted in Formula 1 with Williams this season, showcasing promising performances as a rookie driver. His adaptation to the demands of the sport demonstrated remarkable potential, particularly with standout performances in the latter part of the season. Sargeant's commitment and growth on the grid have earned him an extended stay with Williams, positioning him as a driver with immense promise. As he continues to develop, Sargeant's contributions are poised to further bolster Williams' ambitions, marking an exciting phase for both driver and team in Formula 1.",
+      "blurb": "Logan Sargeant, a rising rookie American talent, debuted in Formula 1 with Williams in 2023. His adaptation to the demands of the sport demonstrated remarkable potential, particularly with standout performances in the latter part of the season. Sargeant's commitment and growth on the grid have earned him an extended stay with Williams. Sargeant's willingness to grow alongside the Williams team mark an exciting phase for both driver and team in Formula1.",
       "source": "https://www.formula1.com/en/drivers/max-verstappen.html",
       "img": "logan.jpg",
       "slug": "logan"
@@ -369,7 +369,7 @@
       "driverID": "ocon",
       "driver_name": "Esteban Ocon",
       "team": "Alpine",
-      "blurb": "Esteban Ocon, a French driver, made his Formula 1 debut in 2016, showcasing promise and skill with Manor Racing and Force India. His journey through various teams highlighted his adaptability and determination, particularly during his time at Renault and now Alpine. Ocon's tenure at Alpine has seen him steadily evolve into a consistent performer, demonstrating resilience and growth on the grid. His contributions to Alpine's development mark him as a vital asset, playing a key role in the team's ambitions and setting the stage for further success in Formula 1.",
+      "blurb": "The Frenchman Esteban Ocon made his Formula1 debut in 2016 with Manor Racing and Force India. His journey through various teams highlighted his adaptability, particularly during his time Renault — now Alpine. Ocon's tenure at Alpine has seen him steadily evolve into a consistent performer, demonstrating resilience and growth on the grid. His contributions to Alpine's development mark him as a vital asset, playing a key role in the team's ambitions.",
       "source": "https://www.formula1.com/en/drivers/max-verstappen.html",
       "img": "esteban.jpg",
       "slug": "esteban"
@@ -378,7 +378,7 @@
       "driverID": "gasly",
       "driver_name": "Pierre Gasly",
       "team": "Alpine",
-      "blurb": "Pierre Gasly, a French driver, debuted in Formula 1 in 2017, showcasing his talent and determination with Toro Rosso, now known as AlphaTauri. After a stint at Red Bull Racing and subsequent return to AlphaTauri, Gasly made a pivotal move to Alpine in 2023. His transition to Alpine marks a new chapter in his career, where his consistent performances and resilience on the track continue to make an impact. Gasly's experience and potential contributions position him as a valuable addition to Alpine, as the team aims for progress and success in Formula 1.",
+      "blurb": "Pierre Gasly, a French driver, debuted in Formula 1 in 2017, showcasing his talent and determination with Toro Rosso, now known as AlphaTauri. After a stint at Red Bull Racing and subsequent return to AlphaTauri, Gasly made a pivotal move to Alpine in 2023. His transition to Alpine marks a new chapter in his career, where his consistency on the track continue to make him a dependable driver and teammate. ",
       "source": "https://www.formula1.com/en/drivers/max-verstappen.html",
       "img": "pierre.jpg",
       "slug": "pierre"
@@ -387,7 +387,7 @@
       "driverID": "stroll",
       "driver_name": "Lance Stroll",
       "team": "Aston Martin",
-      "blurb": "Lance Stroll, a Canadian driver, debuted in Formula 1 in 2017, showcasing promise and skill with Williams before joining Racing Point, now known as Aston Martin. Notably, Stroll's connection extends beyond the cockpit as his father, Lawrence Stroll, holds a prominent role in the leadership of Aston Martin. Lance's journey in Formula 1 reflects his growth and adaptability on the grid. His tenure at Aston Martin represents a significant chapter in his career, where his consistent performances and alignment with the team's vision, guided in part by his father's leadership, contribute to the team's ambitions in Formula 1.\n\n",
+      "blurb": "Lance Stroll, a Canadian driver, debuted in Formula1 in 2017 with Williams before joining Racing Point, now as Aston Martin. Stroll's connection extends beyond the cockpit as his father, Lawrence Stroll, holds a prominent role in the leadership of Aston Martin, but his three podium finishes prove his worth on track alone. Stroll is known for his consistency in the rain, and his early career standout moments have kept his chances for a long-term racing career alive.\n\n",
       "source": "https://www.formula1.com/en/drivers/max-verstappen.html",
       "img": "lance.jpg",
       "slug": "lance"
@@ -396,7 +396,7 @@
       "driverID": "bottas",
       "driver_name": "Valterri Bottas",
       "team": "Alfa Romeo",
-      "blurb": "Valtteri Bottas, a Finnish driver, entered Formula 1 in 2013, showcasing his talents and racing prowess with Williams before joining Mercedes, a team he competed with for several successful seasons. Bottas, known for his consistency and teamwork, contributed significantly to Mercedes' dominance during his tenure. His move to Alfa Romeo Racing ORLEN marks a new chapter in his career, where his experience and dedication continue to make an impact. Bottas' valuable contributions on and off the track position him as a key driver for Alfa Romeo Racing ORLEN, as the team aims for progression and success in Formula 1.",
+      "blurb": "Valtteri Bottas, a proud Finnish driver, entered Formula1 in 2013 with Williams before joining the dominant Mercedes, a team he competed with for several successful seasons. Bottas, known for his consistency and teamwork, upheld Mercedes' dominance during his tenure and his teammate Hamilton's record-breaking World Driver's Championship run. His move to Alfa Romeo Racing marked a new chapter in his career, where he showcased experience and dedication . Bottas' valuable contributions on and off the track position him as a key driver for Alfa Romeo Racing as the team aims to work its way up the midfield.",
       "source": "https://www.formula1.com/en/drivers/max-verstappen.html",
       "img": "valterri.jpg",
       "slug": "valterri"
@@ -405,7 +405,7 @@
       "driverID": "zhou",
       "driver_name": "Zhou Guanyu",
       "team": "Alfa Romeo",
-      "blurb": "Zhou Guanyu, a Chinese driver, made his mark in Formula 1 in 2022, debuting with Alfa Romeo Racing ORLEN. His entry into Formula 1 marked a significant moment as the first full-time Chinese driver in the sport's history. Zhou's arrival brought forth a wave of excitement and anticipation, showcasing his talent and potential. His promising performances and dedication on the track have positioned him as a key asset for Alfa Romeo Racing ORLEN, marking a new era in Chinese representation within Formula 1 and igniting hopes for a successful future in the sport.",
+      "blurb": "Zhou Guanyu, a Chinese driver, made his mark in Formula1 in 2022 and stands as a symbol of international interest and representation in the sport. His entry into Formula 1 marked a significant moment as the first full-time Chinese driver in the sport's history. Zhou's arrival brought forth a wave of excitement and anticipation, showcasing his talent and potential. His promising performances and dedication on the track have positioned him as a key asset for Alfa Romeo Racing.",
       "source": "https://www.formula1.com/en/drivers/max-verstappen.html",
       "img": "zhou.jpg",
       "slug": "zhou"
@@ -414,7 +414,7 @@
       "driverID": "tsunoda",
       "driver_name": "Yuki Tsunoda",
       "team": "Alpha Tauri",
-      "blurb": "Yuki Tsunoda, the vibrant Japanese sensation, stormed into Formula 1 with a spirited debut at just 20 years old, instantly leaving an indelible mark. Fearless and fiercely competitive, Tsunoda's arrival at AlphaTauri heralded a new era, showcasing his innate talent and unwavering determination. With a flair for daring maneuvers and a racing instinct that belies his age, Tsunoda swiftly etched his name in the sport's annals. His ascent from Formula 3 to Formula 1 was meteoric, and his breakthrough drive at Bahrain in 2021, securing points in his debut race, set the stage for a season of thrilling wheel-to-wheel battles and standout performances, establishing him as a force to be reckoned with in the high-octane world of Formula 1.",
+      "blurb": "Yuki Tsunoda, the vibrant Japanese sensation, made a spirited debut at just 20 years old with AlphaTauri. With a flair for daring maneuvers and a racing instinct that belies his age, Tsunoda swiftly etched his name in the sport's annals and quickly became a fan favorite. His ascent from Formula 3 to Formula 1 was meteoric, and his breakthrough drive at Bahrain in 2021, securing points in his debut race, set the stage for a season of thrilling wheel-to-wheel battles and standout performances.",
       "source": "https://www.formula1.com/en/drivers/max-verstappen.html",
       "img": "yuki.jpg",
       "slug": "yuki"
@@ -423,7 +423,7 @@
       "driverID": "ricciardo",
       "driver_name": "Daniel Ricciardo",
       "team": "Alpha Tauri",
-      "blurb": "Daniel Ricciardo, the seasoned Australian racer known for his infectious smile and daring overtakes, faced a pivotal shift in his Formula 1 journey, transitioning from McLaren to AlphaTauri halfway through the season. Renowned for his bold yet calculated racing style, Ricciardo's arrival at AlphaTauri injected a new energy into the team. With a wealth of experience and a knack for extracting the maximum from his machinery, his mid-season move showcased his adaptability and determination. Embracing the challenge head-on, Ricciardo's seamless integration and flashes of brilliance on the track marked the beginning of a new chapter, underscoring his enduring presence and unwavering passion in the fiercely competitive world of Formula 1.",
+      "blurb": "Daniel Ricciardo, the seasoned Australian racer known for his infectious smile and daring overtakes, faced a pivotal shift in his Formula 1 journey when he lost his seat at McLaren but made a comeback halfway through the 2023 season at AlphaTauri. Renowned for his bold yet calculated racing style, Ricciardo's arrival at AlphaTauri injected a new energy into the team. Embracing the challenge head-on, Ricciardo's seamless integration on the track marked the beginning of a new chapter, underscoring his enduring presence and unwavering passion in the fiercely competitive world of Formula 1.",
       "source": "https://www.formula1.com/en/drivers/max-verstappen.html",
       "img": "daniel.jpg",
       "slug": "daniel"
@@ -432,7 +432,7 @@
       "driverID": "norris",
       "driver_name": "Lando Norris",
       "team": "McLaren",
-      "blurb": "Lando Norris, the vibrant and talented British driver, has etched his mark on Formula 1 with a blend of youthful exuberance and remarkable skill. Rising through the ranks, Norris made his Formula 1 debut with McLaren in 2019, showcasing exceptional promise from the onset. Known for his infectious personality and impressive racing acumen, Norris swiftly earned respect as a fierce competitor on the grid. His consistent performances and ability to extract the maximum from his machinery have established him as a mainstay in the sport. With podium finishes and standout drives, Norris continues to captivate audiences and solidify his status as one of the rising stars in Formula 1.",
+      "blurb": "Young British driver Lando Norris displayed vibrance and talent from the moment he debuted with McLaren in 2019. Known for his infectious personality and impressive racing acumen, Norris swiftly earned respect as a fierce competitor on the grid. With several podium finishes and standout drives, Norris continues to captivate audiences and solidify his status as one of the rising stars in Formula 1.",
       "source": "https://www.formula1.com/en/drivers/max-verstappen.html",
       "img": "lando.jpg",
       "slug": "lando"
@@ -441,7 +441,7 @@
       "driverID": "piastri",
       "driver_name": "Oscar Piastri",
       "team": "McLaren",
-      "blurb": "Oscar Piastri, the talented Australian rookie, burst onto the Formula 1 scene this season with McLaren, marking his debut in the pinnacle of motorsport. Despite it being his rookie year, Piastri wasted no time in making an impact, showcasing his racing prowess and adaptability on the grid. His victory in a thrilling sprint race underscored his innate talent and determination. Known for his measured approach and remarkable maturity behind the wheel, Piastri's seamless transition to Formula 1 and impressive performances have turned heads in the paddock. As he navigates his maiden season, Piastri's promising start at McLaren hints at a bright future ahead, positioning him as a rising star in the competitive world of Formula 1.",
+      "blurb": "Oscar Piastri, the highly-anticipated and talented Australian rookie, joined the grid with McLaren in 2023. Despite it being his rookie year, Piastri wasted no time in making an impact, showcasing his racing prowess and adaptability. His victory in a thrilling sprint race underscored his innate talent and determination. Known for his measured approach and remarkable maturity behind the wheel, Piastri's seamless transition to Formula 1 and impressive performances have turned heads in the paddock. ",
       "source": "https://www.formula1.com/en/drivers/max-verstappen.html",
       "img": "oscar.jpg",
       "slug": "oscar"
@@ -450,7 +450,7 @@
       "driverID": "lawson",
       "driver_name": "Liam Lawson",
       "team": "Alpha Tauri",
-      "blurb": "Liam Lawson, the burgeoning talent from New Zealand, made a noteworthy mark in Formula 1 this year, stepping into the AlphaTauri seat during Daniel Ricciardo's absence and impressing with his solid performances. Lawson's journey in motorsport has been marked by his tenacity and natural racing instincts. With an opportunity to showcase his skills at the highest level, Lawson displayed maturity and composure beyond his years, delivering commendable performances on the track. His adaptability and ability to quickly acclimate to the demands of Formula 1 affirmed his potential as a future force in the sport. Lawson's brief yet impactful stint at AlphaTauri underscored his capabilities, hinting at a promising career trajectory in Formula 1.",
+      "blurb": "Liam Lawson, the burgeoning talent from New Zealand, made a noteworthy mark in Formula 1 this year, stepping into the AlphaTauri seat during Daniel Ricciardo's injury and impressing with his solid performances. With an opportunity to showcase his skills at the highest level, Lawson delivered commendable, suprising performances on the track. His adaptability and ability to quickly acclimate to the demands of Formula 1 affirmed his potential as a future force in the sport. ",
       "source": "https://www.formula1.com/en/drivers/max-verstappen.html",
       "img": "lawson.jpg",
       "slug": "lawson"
@@ -459,7 +459,7 @@
       "driverID": "de_vries",
       "driver_name": "Nick DeVries",
       "team": "Alpha Tauri",
-      "blurb": "Nick de Vries, the determined Dutch racer, embarked on a momentous journey in Formula 1 this season, gracing the AlphaTauri seat for the first half before making way for Daniel Ricciardo. De Vries, heralded as a rising talent in motorsport, brought his fierce determination and undeniable skill to the Formula 1 grid. His entry into the sport's upper echelons marked a significant milestone in his career. Despite the challenges of adapting to the pinnacle of racing, de Vries showcased glimpses of his potential with gritty performances and flashes of brilliance.",
+      "blurb": "Dutch racer Nick DeVries debuted in Formula1 in the 2023 season, racing in the the AlphaTauri seat for the first half before his replacement by Daniel Ricciardo. DeVries was highly anticipated and heralded as a rising talent in motorsport. His entry into the sport's upper echelons marked a significant milestone in his career. Despite the challenges of adapting to the pinnacle of racing, DeVries showcased glimpses of his potential with gritty performances and flashes of brilliance.",
       "source": "https://www.formula1.com/en/drivers/max-verstappen.html",
       "img": "devries.jpg",
       "slug": "devries"
