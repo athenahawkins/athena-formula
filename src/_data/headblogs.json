@@ -1,6 +1,31 @@
 {
   "blogs": [
     {
+      "slug": "lewis-move",
+      "headline": "Lewis Hamilton to join Ferrari in 2025",
+      "date": "Feb. 3, 2024",
+      "caption": "Lewis Hamilton at the Las Vegas Grand Prix. Photo via TheSun.",
+      "image": "lewis-move",
+      "post": [
+        {
+          "type": "text",
+          "value": "Racing in the red Ferrari is a Formula 1 driver’s dream. For seven-time world champion Lewis Hamilton, it’ll come true next year."
+        },
+        {
+          "type": "text",
+          "value": "News of the Mercedes legend’s switch took the racing community by storm this week after rumors swirled. Ferrari confirmed Hamilton signed a multiyear contract and will replace Spanish driver Carlos Sainz in 2025."
+        },
+        {
+          "type": "text",
+          "value": "<a href=\"https://twitter.com/LewisHamilton/status/1753770955212456206?s=20\">In a post on X</a>, Hamilton wrote: “I feel incredibly fortunate, after achieving things with Mercedes that I could only have dreamed of as a kid, that I now have the chance to (fulfill) another childhood dream. Driving in Ferrari red.”"
+        },
+        {
+          "type": "text",
+          "value": "Rumors continue to circulate on whether other Mercedes team talent will follow Hamilton’s lead to Ferrari."
+        }
+      ]
+    },
+    {
       "slug": "short-practice",
       "headline": "FP1 cut short after track debacle",
       "date": "Nov. 17, 2023",
@@ -9,23 +34,23 @@
       "post": [
         {
           "type": "text",
-          "value": "The much-anticipated F1 race in Las Vegas took an unexpected turn on Thursday night, sending shockwaves through the racing community and leaving fans utterly disappointed. The event, set to be a thrilling spectacle, turned into a nightmare as Carlos Sainz encountered a perilous mishap on the track, triggering a chain of events that led to the cancellation of the race."
+          "value": "The much-anticipated F1 race in Las Vegas took an unexpected turn on Thursday night, sending shockwaves through the racing community and leaving fans disappointed. The anticipated event turned into a real-life nightmare for Spanish driver Carlos Sainz, who encountered a dangerous obstacle on the track that forced stewards to cancel the practice session."
         },
         {
           "type": "text",
-          "value": "Amidst the high-speed action at the Las Vegas circuit, Sainz's car unexpectedly collided with a misplaced drain pipe, causing extensive damage to the vehicle and disrupting the racing line. The alarming incident not only endangered Sainz but also raised serious concerns about track safety."
+          "value": "Sainz's Ferrari unexpectedly collided with a misplaced drain pipe, causing extensive damage to the vehicle. The incident not only endangered Sainz, but also raised serious concerns about the new track’s safety."
         },
         {
           "type": "text",
-          "value": "As a result of the damage caused by the collision, race officials were forced to make a difficult decision—to call off the race for the safety of all participants and spectators. The track's integrity was compromised, and the risks involved in continuing the event were deemed too high."
+          "value": "As a result of the damage, race officials were forced to call off the race for the safety of all participants and spectators. The risks involved in continuing the event without confirming the track’s integrity were deemed too high, according to stewards."
         },
         {
           "type": "text",
-          "value": "Disappointment reverberated through the crowd as attendees, eagerly anticipating the adrenaline-pumping race, were informed that the Thursday night spectacle was abruptly canceled. The abrupt end to the event left many fans disheartened, especially those who had eagerly traveled to witness the race firsthand."
+          "value": "Disappointment reverberated through the in-person crowd and TV audience as attendees were informed that the Thursday night spectacle was abruptly canceled. Currently, there is no information about whether attendees will receive refunds."
         },
         {
           "type": "text",
-          "value": "Authorities swiftly took action to rectify the situation, launching a thorough investigation into the incident and the lapses that led to such a hazardous condition on the track. Track officials, in collaboration with F1 management, issued apologies to the fans and assured them that measures would be taken to prevent such incidents from occurring in the future."
+          "value": "Authorities swiftly launched an investigation into the incident. Track officials, in collaboration with F1 management, issued apologies to fans and assured them that measures would be taken to prevent such incidents from occurring in the future."
         }
       ]
     },
@@ -47,27 +72,6 @@
         {
           "type": "text",
           "value": "As Formula 1 continues to navigate unforeseen track challenges, Sainz's situation stands as a testament to the sport's inherent unpredictability. His task ahead involves a strategic and skillful maneuver through the grid to optimize his race outcome in the upcoming event."
-        }
-      ]
-    },
-    {
-      "slug": "charles-hot",
-      "headline": "Ranking driver fashion at the Las Vegas Grand Prix",
-      "date": "Nov. 17, 2023",
-      "caption": "Lewis Hamilton at the Las Vegas Grand Prix. Photo via TheSun.",
-      "image": "charles-hot",
-      "post": [
-        {
-          "type": "text",
-          "value": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum."
-        },
-        {
-          "type": "text",
-          "value": "Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum. Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat."
-        },
-        {
-          "type": "text",
-          "value": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum."
         }
       ]
     }
